@@ -1,679 +1,679 @@
 <svg height="10814" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="10814" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-21 14:21:29 +0000  1673059 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-21 14:21:29 +0000      194 bytes  AUTHORS</tspan>
-<tspan x="10" y="58">  2.  2017-04-21 14:21:29 +0000     3578 bytes  CONTRIBUTING.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-21 14:21:29 +0000    11342 bytes  LICENSE</tspan>
-<tspan x="10" y="90">  4.  2017-04-21 14:21:29 +0000     2845 bytes  docs/architecture.md</tspan>
-<tspan x="10" y="106">  5.  2017-04-21 14:21:29 +0000      952 bytes  docs/headless-chrome.md</tspan>
-<tspan x="10" y="122">  6.  2017-04-21 14:21:29 +0000      475 bytes  jsconfig.json</tspan>
-<tspan x="10" y="138">  7.  2017-04-21 14:21:29 +0000       67 bytes  lighthouse-cli/README.md</tspan>
-<tspan x="10" y="154">  8.  2017-04-21 14:21:29 +0000     3055 bytes  lighthouse-cli/ask.js</tspan>
-<tspan x="10" y="170">  9.  2017-04-21 14:21:29 +0000     1423 bytes  lighthouse-cli/ask.ts</tspan>
-<tspan x="10" y="186"> 10.  2017-04-21 14:21:29 +0000    22714 bytes  lighthouse-cli/bin.js</tspan>
-<tspan x="10" y="202"> 11.  2017-04-21 14:21:29 +0000    11421 bytes  lighthouse-cli/bin.ts</tspan>
-<tspan x="10" y="218"> 12.  2017-04-21 14:21:29 +0000    13396 bytes  lighthouse-cli/chrome-finder.js</tspan>
-<tspan x="10" y="234"> 13.  2017-04-21 14:21:29 +0000     6323 bytes  lighthouse-cli/chrome-finder.ts</tspan>
-<tspan x="10" y="250"> 14.  2017-04-21 14:21:29 +0000    18852 bytes  lighthouse-cli/chrome-launcher.js</tspan>
-<tspan x="10" y="266"> 15.  2017-04-21 14:21:29 +0000     8325 bytes  lighthouse-cli/chrome-launcher.ts</tspan>
-<tspan x="10" y="282"> 16.  2017-04-21 14:21:29 +0000     1215 bytes  lighthouse-cli/commands/commands.js</tspan>
-<tspan x="10" y="298"> 17.  2017-04-21 14:21:29 +0000      777 bytes  lighthouse-cli/commands/commands.ts</tspan>
-<tspan x="10" y="314"> 18.  2017-04-21 14:21:29 +0000     1662 bytes  lighthouse-cli/commands/list-audits.js</tspan>
-<tspan x="10" y="330"> 19.  2017-04-21 14:21:29 +0000      891 bytes  lighthouse-cli/commands/list-audits.ts</tspan>
-<tspan x="10" y="346"> 20.  2017-04-21 14:21:29 +0000     1551 bytes  lighthouse-cli/commands/list-trace-categories.js</tspan>
-<tspan x="10" y="362"> 21.  2017-04-21 14:21:29 +0000      867 bytes  lighthouse-cli/commands/list-trace-categories.ts</tspan>
-<tspan x="10" y="378"> 22.  2017-04-21 14:21:29 +0000      394 bytes  lighthouse-cli/compiled-check.js</tspan>
-<tspan x="10" y="394"> 23.  2017-04-21 14:21:29 +0000      150 bytes  lighthouse-cli/index.js</tspan>
-<tspan x="10" y="410"> 24.  2017-04-21 14:21:29 +0000      806 bytes  lighthouse-cli/manual-chrome-launcher.js</tspan>
-<tspan x="10" y="426"> 25.  2017-04-21 14:21:29 +0000      276 bytes  lighthouse-cli/package.json</tspan>
-<tspan x="10" y="442"> 26.  2017-04-21 14:21:29 +0000     2060 bytes  lighthouse-cli/performance-experiment/experiment\</tspan>
+<tspan x="10" y="26">  0.  2017-04-21 14:22:49 +0000  1673059 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-21 14:22:49 +0000      194 bytes  AUTHORS</tspan>
+<tspan x="10" y="58">  2.  2017-04-21 14:22:49 +0000     3578 bytes  CONTRIBUTING.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-21 14:22:49 +0000    11342 bytes  LICENSE</tspan>
+<tspan x="10" y="90">  4.  2017-04-21 14:22:49 +0000     2845 bytes  docs/architecture.md</tspan>
+<tspan x="10" y="106">  5.  2017-04-21 14:22:49 +0000      952 bytes  docs/headless-chrome.md</tspan>
+<tspan x="10" y="122">  6.  2017-04-21 14:22:49 +0000      475 bytes  jsconfig.json</tspan>
+<tspan x="10" y="138">  7.  2017-04-21 14:22:49 +0000       67 bytes  lighthouse-cli/README.md</tspan>
+<tspan x="10" y="154">  8.  2017-04-21 14:22:49 +0000     3055 bytes  lighthouse-cli/ask.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-21 14:22:49 +0000     1423 bytes  lighthouse-cli/ask.ts</tspan>
+<tspan x="10" y="186"> 10.  2017-04-21 14:22:49 +0000    22714 bytes  lighthouse-cli/bin.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-21 14:22:49 +0000    11421 bytes  lighthouse-cli/bin.ts</tspan>
+<tspan x="10" y="218"> 12.  2017-04-21 14:22:49 +0000    13396 bytes  lighthouse-cli/chrome-finder.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-21 14:22:49 +0000     6323 bytes  lighthouse-cli/chrome-finder.ts</tspan>
+<tspan x="10" y="250"> 14.  2017-04-21 14:22:49 +0000    18852 bytes  lighthouse-cli/chrome-launcher.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-21 14:22:49 +0000     8325 bytes  lighthouse-cli/chrome-launcher.ts</tspan>
+<tspan x="10" y="282"> 16.  2017-04-21 14:22:49 +0000     1215 bytes  lighthouse-cli/commands/commands.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-21 14:22:49 +0000      777 bytes  lighthouse-cli/commands/commands.ts</tspan>
+<tspan x="10" y="314"> 18.  2017-04-21 14:22:49 +0000     1662 bytes  lighthouse-cli/commands/list-audits.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-21 14:22:49 +0000      891 bytes  lighthouse-cli/commands/list-audits.ts</tspan>
+<tspan x="10" y="346"> 20.  2017-04-21 14:22:49 +0000     1551 bytes  lighthouse-cli/commands/list-trace-categories.js</tspan>
+<tspan x="10" y="362"> 21.  2017-04-21 14:22:49 +0000      867 bytes  lighthouse-cli/commands/list-trace-categories.ts</tspan>
+<tspan x="10" y="378"> 22.  2017-04-21 14:22:49 +0000      394 bytes  lighthouse-cli/compiled-check.js</tspan>
+<tspan x="10" y="394"> 23.  2017-04-21 14:22:49 +0000      150 bytes  lighthouse-cli/index.js</tspan>
+<tspan x="10" y="410"> 24.  2017-04-21 14:22:49 +0000      806 bytes  lighthouse-cli/manual-chrome-launcher.js</tspan>
+<tspan x="10" y="426"> 25.  2017-04-21 14:22:49 +0000      276 bytes  lighthouse-cli/package.json</tspan>
+<tspan x="10" y="442"> 26.  2017-04-21 14:22:49 +0000     2060 bytes  lighthouse-cli/performance-experiment/experiment\</tspan>
 <tspan x="10" y="458">-database/database.js</tspan>
-<tspan x="10" y="474"> 27.  2017-04-21 14:21:29 +0000     9184 bytes  lighthouse-cli/performance-experiment/report/par\</tspan>
+<tspan x="10" y="474"> 27.  2017-04-21 14:22:49 +0000     9184 bytes  lighthouse-cli/performance-experiment/report/par\</tspan>
 <tspan x="10" y="490">tials/config-panel.html</tspan>
-<tspan x="10" y="506"> 28.  2017-04-21 14:21:29 +0000     1564 bytes  lighthouse-cli/performance-experiment/report/per\</tspan>
+<tspan x="10" y="506"> 28.  2017-04-21 14:22:49 +0000     1564 bytes  lighthouse-cli/performance-experiment/report/per\</tspan>
 <tspan x="10" y="522">f-x-report-generator.js</tspan>
-<tspan x="10" y="538"> 29.  2017-04-21 14:21:29 +0000     7327 bytes  lighthouse-cli/performance-experiment/report/scr\</tspan>
+<tspan x="10" y="538"> 29.  2017-04-21 14:22:49 +0000     7327 bytes  lighthouse-cli/performance-experiment/report/scr\</tspan>
 <tspan x="10" y="554">ipts/perf-x.js</tspan>
-<tspan x="10" y="570"> 30.  2017-04-21 14:21:29 +0000     5024 bytes  lighthouse-cli/performance-experiment/server.js</tspan>
-<tspan x="10" y="586"> 31.  2017-04-21 14:21:29 +0000    13668 bytes  lighthouse-cli/printer.js</tspan>
-<tspan x="10" y="602"> 32.  2017-04-21 14:21:29 +0000     6005 bytes  lighthouse-cli/printer.ts</tspan>
-<tspan x="10" y="618"> 33.  2017-04-21 14:21:29 +0000     1969 bytes  lighthouse-cli/random-port.js</tspan>
-<tspan x="10" y="634"> 34.  2017-04-21 14:21:29 +0000     1065 bytes  lighthouse-cli/random-port.ts</tspan>
-<tspan x="10" y="650"> 35.  2017-04-21 14:21:29 +0000     1250 bytes  lighthouse-cli/test/cli/bin-test.js</tspan>
-<tspan x="10" y="666"> 36.  2017-04-21 14:21:29 +0000     1689 bytes  lighthouse-cli/test/cli/chrome-launcher-test.js</tspan>
-<tspan x="10" y="682"> 37.  2017-04-21 14:21:29 +0000     1591 bytes  lighthouse-cli/test/cli/index-test.js</tspan>
-<tspan x="10" y="698"> 38.  2017-04-21 14:21:29 +0000     5134 bytes  lighthouse-cli/test/cli/performance-experiment/d\</tspan>
+<tspan x="10" y="570"> 30.  2017-04-21 14:22:49 +0000     5024 bytes  lighthouse-cli/performance-experiment/server.js</tspan>
+<tspan x="10" y="586"> 31.  2017-04-21 14:22:49 +0000    13668 bytes  lighthouse-cli/printer.js</tspan>
+<tspan x="10" y="602"> 32.  2017-04-21 14:22:49 +0000     6005 bytes  lighthouse-cli/printer.ts</tspan>
+<tspan x="10" y="618"> 33.  2017-04-21 14:22:49 +0000     1969 bytes  lighthouse-cli/random-port.js</tspan>
+<tspan x="10" y="634"> 34.  2017-04-21 14:22:49 +0000     1065 bytes  lighthouse-cli/random-port.ts</tspan>
+<tspan x="10" y="650"> 35.  2017-04-21 14:22:49 +0000     1250 bytes  lighthouse-cli/test/cli/bin-test.js</tspan>
+<tspan x="10" y="666"> 36.  2017-04-21 14:22:49 +0000     1689 bytes  lighthouse-cli/test/cli/chrome-launcher-test.js</tspan>
+<tspan x="10" y="682"> 37.  2017-04-21 14:22:49 +0000     1591 bytes  lighthouse-cli/test/cli/index-test.js</tspan>
+<tspan x="10" y="698"> 38.  2017-04-21 14:22:49 +0000     5134 bytes  lighthouse-cli/test/cli/performance-experiment/d\</tspan>
 <tspan x="10" y="714">atabase-test.js</tspan>
-<tspan x="10" y="730"> 39.  2017-04-21 14:21:29 +0000     3359 bytes  lighthouse-cli/test/cli/printer-test.js</tspan>
-<tspan x="10" y="746"> 40.  2017-04-21 14:21:29 +0000     1041 bytes  lighthouse-cli/test/cli/random-port-test.js</tspan>
-<tspan x="10" y="762"> 41.  2017-04-21 14:21:29 +0000     2038 bytes  lighthouse-cli/test/fixtures/accessibility/acces\</tspan>
+<tspan x="10" y="730"> 39.  2017-04-21 14:22:49 +0000     3359 bytes  lighthouse-cli/test/cli/printer-test.js</tspan>
+<tspan x="10" y="746"> 40.  2017-04-21 14:22:49 +0000     1041 bytes  lighthouse-cli/test/cli/random-port-test.js</tspan>
+<tspan x="10" y="762"> 41.  2017-04-21 14:22:49 +0000     2038 bytes  lighthouse-cli/test/fixtures/accessibility/acces\</tspan>
 <tspan x="10" y="778">sibility_tester.html</tspan>
-<tspan x="10" y="794"> 42.  2017-04-21 14:21:29 +0000     3281 bytes  lighthouse-cli/test/fixtures/byte-efficiency/lar\</tspan>
+<tspan x="10" y="794"> 42.  2017-04-21 14:22:49 +0000     3281 bytes  lighthouse-cli/test/fixtures/byte-efficiency/lar\</tspan>
 <tspan x="10" y="810">ge.svg</tspan>
-<tspan x="10" y="826"> 43.  2017-04-21 14:21:29 +0000    83014 bytes  lighthouse-cli/test/fixtures/byte-efficiency/lig\</tspan>
+<tspan x="10" y="826"> 43.  2017-04-21 14:22:49 +0000    83014 bytes  lighthouse-cli/test/fixtures/byte-efficiency/lig\</tspan>
 <tspan x="10" y="842">hthouse-1024x680.jpg</tspan>
-<tspan x="10" y="858"> 44.  2017-04-21 14:21:29 +0000     6096 bytes  lighthouse-cli/test/fixtures/byte-efficiency/lig\</tspan>
+<tspan x="10" y="858"> 44.  2017-04-21 14:22:49 +0000     6096 bytes  lighthouse-cli/test/fixtures/byte-efficiency/lig\</tspan>
 <tspan x="10" y="874">hthouse-320x212-poor.jpg</tspan>
-<tspan x="10" y="890"> 45.  2017-04-21 14:21:29 +0000    18408 bytes  lighthouse-cli/test/fixtures/byte-efficiency/lig\</tspan>
+<tspan x="10" y="890"> 45.  2017-04-21 14:22:49 +0000    18408 bytes  lighthouse-cli/test/fixtures/byte-efficiency/lig\</tspan>
 <tspan x="10" y="906">hthouse-480x320.jpg</tspan>
-<tspan x="10" y="922"> 46.  2017-04-21 14:21:29 +0000    11460 bytes  lighthouse-cli/test/fixtures/byte-efficiency/lig\</tspan>
+<tspan x="10" y="922"> 46.  2017-04-21 14:22:49 +0000    11460 bytes  lighthouse-cli/test/fixtures/byte-efficiency/lig\</tspan>
 <tspan x="10" y="938">hthouse-480x320.webp</tspan>
-<tspan x="10" y="954"> 47.  2017-04-21 14:21:29 +0000    51941 bytes  lighthouse-cli/test/fixtures/byte-efficiency/lig\</tspan>
+<tspan x="10" y="954"> 47.  2017-04-21 14:22:49 +0000    51941 bytes  lighthouse-cli/test/fixtures/byte-efficiency/lig\</tspan>
 <tspan x="10" y="970">hthouse-unoptimized.jpg</tspan>
-<tspan x="10" y="986"> 48.  2017-04-21 14:21:29 +0000     3650 bytes  lighthouse-cli/test/fixtures/byte-efficiency/tes\</tspan>
+<tspan x="10" y="986"> 48.  2017-04-21 14:22:49 +0000     3650 bytes  lighthouse-cli/test/fixtures/byte-efficiency/tes\</tspan>
 <tspan x="10" y="1002">ter.html</tspan>
-<tspan x="10" y="1018"> 49.  2017-04-21 14:21:29 +0000     1002 bytes  lighthouse-cli/test/fixtures/dobetterweb/dbw_dis\</tspan>
+<tspan x="10" y="1018"> 49.  2017-04-21 14:22:49 +0000     1002 bytes  lighthouse-cli/test/fixtures/dobetterweb/dbw_dis\</tspan>
 <tspan x="10" y="1034">abled.css</tspan>
-<tspan x="10" y="1050"> 50.  2017-04-21 14:21:29 +0000      650 bytes  lighthouse-cli/test/fixtures/dobetterweb/dbw_par\</tspan>
+<tspan x="10" y="1050"> 50.  2017-04-21 14:22:49 +0000      650 bytes  lighthouse-cli/test/fixtures/dobetterweb/dbw_par\</tspan>
 <tspan x="10" y="1066">tial_a.html</tspan>
-<tspan x="10" y="1082"> 51.  2017-04-21 14:21:29 +0000      647 bytes  lighthouse-cli/test/fixtures/dobetterweb/dbw_par\</tspan>
+<tspan x="10" y="1082"> 51.  2017-04-21 14:22:49 +0000      647 bytes  lighthouse-cli/test/fixtures/dobetterweb/dbw_par\</tspan>
 <tspan x="10" y="1098">tial_b.html</tspan>
-<tspan x="10" y="1114"> 52.  2017-04-21 14:21:29 +0000      715 bytes  lighthouse-cli/test/fixtures/dobetterweb/dbw_tes\</tspan>
+<tspan x="10" y="1114"> 52.  2017-04-21 14:22:49 +0000      715 bytes  lighthouse-cli/test/fixtures/dobetterweb/dbw_tes\</tspan>
 <tspan x="10" y="1130">ter.css</tspan>
-<tspan x="10" y="1146"> 53.  2017-04-21 14:21:29 +0000     9917 bytes  lighthouse-cli/test/fixtures/dobetterweb/dbw_tes\</tspan>
+<tspan x="10" y="1146"> 53.  2017-04-21 14:22:49 +0000     9917 bytes  lighthouse-cli/test/fixtures/dobetterweb/dbw_tes\</tspan>
 <tspan x="10" y="1162">ter.html</tspan>
-<tspan x="10" y="1178"> 54.  2017-04-21 14:21:29 +0000     1479 bytes  lighthouse-cli/test/fixtures/dobetterweb/dbw_tes\</tspan>
+<tspan x="10" y="1178"> 54.  2017-04-21 14:22:49 +0000     1479 bytes  lighthouse-cli/test/fixtures/dobetterweb/dbw_tes\</tspan>
 <tspan x="10" y="1194">ter.js</tspan>
-<tspan x="10" y="1210"> 55.  2017-04-21 14:21:29 +0000     2393 bytes  lighthouse-cli/test/fixtures/dobetterweb/domtest\</tspan>
+<tspan x="10" y="1210"> 55.  2017-04-21 14:22:49 +0000     2393 bytes  lighthouse-cli/test/fixtures/dobetterweb/domtest\</tspan>
 <tspan x="10" y="1226">er.html</tspan>
-<tspan x="10" y="1242"> 56.  2017-04-21 14:21:29 +0000     2823 bytes  lighthouse-cli/test/fixtures/offline-ready-sw.js</tspan>
-<tspan x="10" y="1258"> 57.  2017-04-21 14:21:29 +0000     1725 bytes  lighthouse-cli/test/fixtures/offline-ready.html</tspan>
-<tspan x="10" y="1274"> 58.  2017-04-21 14:21:29 +0000      223 bytes  lighthouse-cli/test/fixtures/online-only.html</tspan>
-<tspan x="10" y="1290"> 59.  2017-04-21 14:21:29 +0000     2848 bytes  lighthouse-cli/test/fixtures/static-server.js</tspan>
-<tspan x="10" y="1306"> 60.  2017-04-21 14:21:29 +0000      910 bytes  lighthouse-cli/test/global-mocha-hooks.js</tspan>
-<tspan x="10" y="1322"> 61.  2017-04-21 14:21:29 +0000     1463 bytes  lighthouse-cli/test/smokehouse/byte-efficiency/e\</tspan>
+<tspan x="10" y="1242"> 56.  2017-04-21 14:22:49 +0000     2823 bytes  lighthouse-cli/test/fixtures/offline-ready-sw.js</tspan>
+<tspan x="10" y="1258"> 57.  2017-04-21 14:22:49 +0000     1725 bytes  lighthouse-cli/test/fixtures/offline-ready.html</tspan>
+<tspan x="10" y="1274"> 58.  2017-04-21 14:22:49 +0000      223 bytes  lighthouse-cli/test/fixtures/online-only.html</tspan>
+<tspan x="10" y="1290"> 59.  2017-04-21 14:22:49 +0000     2848 bytes  lighthouse-cli/test/fixtures/static-server.js</tspan>
+<tspan x="10" y="1306"> 60.  2017-04-21 14:22:49 +0000      910 bytes  lighthouse-cli/test/global-mocha-hooks.js</tspan>
+<tspan x="10" y="1322"> 61.  2017-04-21 14:22:49 +0000     1463 bytes  lighthouse-cli/test/smokehouse/byte-efficiency/e\</tspan>
 <tspan x="10" y="1338">xpectations.js</tspan>
-<tspan x="10" y="1354"> 62.  2017-04-21 14:21:29 +0000      361 bytes  lighthouse-cli/test/smokehouse/byte-efficiency/r\</tspan>
+<tspan x="10" y="1354"> 62.  2017-04-21 14:22:49 +0000      361 bytes  lighthouse-cli/test/smokehouse/byte-efficiency/r\</tspan>
 <tspan x="10" y="1370">un-tests.sh</tspan>
-<tspan x="10" y="1386"> 63.  2017-04-21 14:21:29 +0000     5579 bytes  lighthouse-cli/test/smokehouse/dobetterweb/dbw-e\</tspan>
+<tspan x="10" y="1386"> 63.  2017-04-21 14:22:49 +0000     5579 bytes  lighthouse-cli/test/smokehouse/dobetterweb/dbw-e\</tspan>
 <tspan x="10" y="1402">xpectations.js</tspan>
-<tspan x="10" y="1418"> 64.  2017-04-21 14:21:29 +0000      395 bytes  lighthouse-cli/test/smokehouse/dobetterweb/run-t\</tspan>
+<tspan x="10" y="1418"> 64.  2017-04-21 14:22:49 +0000      395 bytes  lighthouse-cli/test/smokehouse/dobetterweb/run-t\</tspan>
 <tspan x="10" y="1434">ests.sh</tspan>
-<tspan x="10" y="1450"> 65.  2017-04-21 14:21:29 +0000     4203 bytes  lighthouse-cli/test/smokehouse/offline-local/off\</tspan>
+<tspan x="10" y="1450"> 65.  2017-04-21 14:22:49 +0000     4203 bytes  lighthouse-cli/test/smokehouse/offline-local/off\</tspan>
 <tspan x="10" y="1466">line-expectations.js</tspan>
-<tspan x="10" y="1482"> 66.  2017-04-21 14:21:29 +0000      432 bytes  lighthouse-cli/test/smokehouse/offline-local/run\</tspan>
+<tspan x="10" y="1482"> 66.  2017-04-21 14:22:49 +0000      432 bytes  lighthouse-cli/test/smokehouse/offline-local/run\</tspan>
 <tspan x="10" y="1498">-tests.sh</tspan>
-<tspan x="10" y="1514"> 67.  2017-04-21 14:21:29 +0000     1637 bytes  lighthouse-cli/test/smokehouse/pwa-config.js</tspan>
-<tspan x="10" y="1530"> 68.  2017-04-21 14:21:29 +0000     6423 bytes  lighthouse-cli/test/smokehouse/pwa-expectations.\</tspan>
+<tspan x="10" y="1514"> 67.  2017-04-21 14:22:49 +0000     1637 bytes  lighthouse-cli/test/smokehouse/pwa-config.js</tspan>
+<tspan x="10" y="1530"> 68.  2017-04-21 14:22:49 +0000     6423 bytes  lighthouse-cli/test/smokehouse/pwa-expectations.\</tspan>
 <tspan x="10" y="1546">js</tspan>
-<tspan x="10" y="1562"> 69.  2017-04-21 14:21:29 +0000     8478 bytes  lighthouse-cli/test/smokehouse/smokehouse.js</tspan>
-<tspan x="10" y="1578"> 70.  2017-04-21 14:21:29 +0000      340 bytes  lighthouse-cli/tsconfig.json</tspan>
-<tspan x="10" y="1594"> 71.  2017-04-21 14:21:29 +0000      744 bytes  lighthouse-cli/types/types.ts</tspan>
-<tspan x="10" y="1610"> 72.  2017-04-21 14:21:29 +0000     6874 bytes  lighthouse-core/aggregator/aggregate.js</tspan>
-<tspan x="10" y="1626"> 73.  2017-04-21 14:21:29 +0000     1448 bytes  lighthouse-core/audits/accessibility/aria-allowe\</tspan>
+<tspan x="10" y="1562"> 69.  2017-04-21 14:22:49 +0000     8478 bytes  lighthouse-cli/test/smokehouse/smokehouse.js</tspan>
+<tspan x="10" y="1578"> 70.  2017-04-21 14:22:49 +0000      340 bytes  lighthouse-cli/tsconfig.json</tspan>
+<tspan x="10" y="1594"> 71.  2017-04-21 14:22:49 +0000      744 bytes  lighthouse-cli/types/types.ts</tspan>
+<tspan x="10" y="1610"> 72.  2017-04-21 14:22:49 +0000     6874 bytes  lighthouse-core/aggregator/aggregate.js</tspan>
+<tspan x="10" y="1626"> 73.  2017-04-21 14:22:49 +0000     1448 bytes  lighthouse-core/audits/accessibility/aria-allowe\</tspan>
 <tspan x="10" y="1642">d-attr.js</tspan>
-<tspan x="10" y="1658"> 74.  2017-04-21 14:21:29 +0000     1431 bytes  lighthouse-core/audits/accessibility/aria-requir\</tspan>
+<tspan x="10" y="1658"> 74.  2017-04-21 14:22:49 +0000     1431 bytes  lighthouse-core/audits/accessibility/aria-requir\</tspan>
 <tspan x="10" y="1674">ed-attr.js</tspan>
-<tspan x="10" y="1690"> 75.  2017-04-21 14:21:29 +0000     1398 bytes  lighthouse-core/audits/accessibility/aria-valid-\</tspan>
+<tspan x="10" y="1690"> 75.  2017-04-21 14:22:49 +0000     1398 bytes  lighthouse-core/audits/accessibility/aria-valid-\</tspan>
 <tspan x="10" y="1706">attr-value.js</tspan>
-<tspan x="10" y="1722"> 76.  2017-04-21 14:21:29 +0000     1448 bytes  lighthouse-core/audits/accessibility/aria-valid-\</tspan>
+<tspan x="10" y="1722"> 76.  2017-04-21 14:22:49 +0000     1448 bytes  lighthouse-core/audits/accessibility/aria-valid-\</tspan>
 <tspan x="10" y="1738">attr.js</tspan>
-<tspan x="10" y="1754"> 77.  2017-04-21 14:21:29 +0000     1502 bytes  lighthouse-core/audits/accessibility/axe-audit.j\</tspan>
+<tspan x="10" y="1754"> 77.  2017-04-21 14:22:49 +0000     1502 bytes  lighthouse-core/audits/accessibility/axe-audit.j\</tspan>
 <tspan x="10" y="1770">s</tspan>
-<tspan x="10" y="1786"> 78.  2017-04-21 14:21:29 +0000     1426 bytes  lighthouse-core/audits/accessibility/color-contr\</tspan>
+<tspan x="10" y="1786"> 78.  2017-04-21 14:22:49 +0000     1426 bytes  lighthouse-core/audits/accessibility/color-contr\</tspan>
 <tspan x="10" y="1802">ast.js</tspan>
-<tspan x="10" y="1818"> 79.  2017-04-21 14:21:29 +0000     1440 bytes  lighthouse-core/audits/accessibility/image-alt.j\</tspan>
+<tspan x="10" y="1818"> 79.  2017-04-21 14:22:49 +0000     1440 bytes  lighthouse-core/audits/accessibility/image-alt.j\</tspan>
 <tspan x="10" y="1834">s</tspan>
-<tspan x="10" y="1850"> 80.  2017-04-21 14:21:29 +0000     1345 bytes  lighthouse-core/audits/accessibility/label.js</tspan>
-<tspan x="10" y="1866"> 81.  2017-04-21 14:21:29 +0000     1468 bytes  lighthouse-core/audits/accessibility/tabindex.js</tspan>
-<tspan x="10" y="1882"> 82.  2017-04-21 14:21:29 +0000     2248 bytes  lighthouse-core/audits/audit.js</tspan>
-<tspan x="10" y="1898"> 83.  2017-04-21 14:21:29 +0000     3851 bytes  lighthouse-core/audits/byte-efficiency/byte-effi\</tspan>
+<tspan x="10" y="1850"> 80.  2017-04-21 14:22:49 +0000     1345 bytes  lighthouse-core/audits/accessibility/label.js</tspan>
+<tspan x="10" y="1866"> 81.  2017-04-21 14:22:49 +0000     1468 bytes  lighthouse-core/audits/accessibility/tabindex.js</tspan>
+<tspan x="10" y="1882"> 82.  2017-04-21 14:22:49 +0000     2248 bytes  lighthouse-core/audits/audit.js</tspan>
+<tspan x="10" y="1898"> 83.  2017-04-21 14:22:49 +0000     3851 bytes  lighthouse-core/audits/byte-efficiency/byte-effi\</tspan>
 <tspan x="10" y="1914">ciency-audit.js</tspan>
-<tspan x="10" y="1930"> 84.  2017-04-21 14:21:29 +0000     3849 bytes  lighthouse-core/audits/byte-efficiency/total-byt\</tspan>
+<tspan x="10" y="1930"> 84.  2017-04-21 14:22:49 +0000     3849 bytes  lighthouse-core/audits/byte-efficiency/total-byt\</tspan>
 <tspan x="10" y="1946">e-weight.js</tspan>
-<tspan x="10" y="1962"> 85.  2017-04-21 14:21:29 +0000     6758 bytes  lighthouse-core/audits/byte-efficiency/unused-cs\</tspan>
+<tspan x="10" y="1962"> 85.  2017-04-21 14:22:49 +0000     6758 bytes  lighthouse-core/audits/byte-efficiency/unused-cs\</tspan>
 <tspan x="10" y="1978">s-rules.js</tspan>
-<tspan x="10" y="1994"> 86.  2017-04-21 14:21:29 +0000     4903 bytes  lighthouse-core/audits/byte-efficiency/uses-opti\</tspan>
+<tspan x="10" y="1994"> 86.  2017-04-21 14:22:49 +0000     4903 bytes  lighthouse-core/audits/byte-efficiency/uses-opti\</tspan>
 <tspan x="10" y="2010">mized-images.js</tspan>
-<tspan x="10" y="2026"> 87.  2017-04-21 14:21:29 +0000     4404 bytes  lighthouse-core/audits/byte-efficiency/uses-resp\</tspan>
+<tspan x="10" y="2026"> 87.  2017-04-21 14:22:49 +0000     4404 bytes  lighthouse-core/audits/byte-efficiency/uses-resp\</tspan>
 <tspan x="10" y="2042">onsive-images.js</tspan>
-<tspan x="10" y="2058"> 88.  2017-04-21 14:21:29 +0000     2532 bytes  lighthouse-core/audits/cache-start-url.js</tspan>
-<tspan x="10" y="2074"> 89.  2017-04-21 14:21:29 +0000     1985 bytes  lighthouse-core/audits/content-width.js</tspan>
-<tspan x="10" y="2090"> 90.  2017-04-21 14:21:29 +0000     3062 bytes  lighthouse-core/audits/critical-request-chains.j\</tspan>
+<tspan x="10" y="2058"> 88.  2017-04-21 14:22:49 +0000     2532 bytes  lighthouse-core/audits/cache-start-url.js</tspan>
+<tspan x="10" y="2074"> 89.  2017-04-21 14:22:49 +0000     1985 bytes  lighthouse-core/audits/content-width.js</tspan>
+<tspan x="10" y="2090"> 90.  2017-04-21 14:22:49 +0000     3062 bytes  lighthouse-core/audits/critical-request-chains.j\</tspan>
 <tspan x="10" y="2106">s</tspan>
-<tspan x="10" y="2122"> 91.  2017-04-21 14:21:29 +0000     2555 bytes  lighthouse-core/audits/deprecations.js</tspan>
-<tspan x="10" y="2138"> 92.  2017-04-21 14:21:29 +0000     1854 bytes  lighthouse-core/audits/dobetterweb/appcache-mani\</tspan>
+<tspan x="10" y="2122"> 91.  2017-04-21 14:22:49 +0000     2555 bytes  lighthouse-core/audits/deprecations.js</tspan>
+<tspan x="10" y="2138"> 92.  2017-04-21 14:22:49 +0000     1854 bytes  lighthouse-core/audits/dobetterweb/appcache-mani\</tspan>
 <tspan x="10" y="2154">fest.js</tspan>
-<tspan x="10" y="2170"> 93.  2017-04-21 14:21:29 +0000     4254 bytes  lighthouse-core/audits/dobetterweb/dom-size.js</tspan>
-<tspan x="10" y="2186"> 94.  2017-04-21 14:21:29 +0000     2846 bytes  lighthouse-core/audits/dobetterweb/external-anch\</tspan>
+<tspan x="10" y="2170"> 93.  2017-04-21 14:22:49 +0000     4254 bytes  lighthouse-core/audits/dobetterweb/dom-size.js</tspan>
+<tspan x="10" y="2186"> 94.  2017-04-21 14:22:49 +0000     2846 bytes  lighthouse-core/audits/dobetterweb/external-anch\</tspan>
 <tspan x="10" y="2202">ors-use-rel-noopener.js</tspan>
-<tspan x="10" y="2218"> 95.  2017-04-21 14:21:29 +0000     2033 bytes  lighthouse-core/audits/dobetterweb/geolocation-o\</tspan>
+<tspan x="10" y="2218"> 95.  2017-04-21 14:22:49 +0000     2033 bytes  lighthouse-core/audits/dobetterweb/geolocation-o\</tspan>
 <tspan x="10" y="2234">n-start.js</tspan>
-<tspan x="10" y="2250"> 96.  2017-04-21 14:21:29 +0000     3285 bytes  lighthouse-core/audits/dobetterweb/link-blocking\</tspan>
+<tspan x="10" y="2250"> 96.  2017-04-21 14:22:49 +0000     3285 bytes  lighthouse-core/audits/dobetterweb/link-blocking\</tspan>
 <tspan x="10" y="2266">-first-paint.js</tspan>
-<tspan x="10" y="2282"> 97.  2017-04-21 14:21:29 +0000     2553 bytes  lighthouse-core/audits/dobetterweb/no-console-ti\</tspan>
+<tspan x="10" y="2282"> 97.  2017-04-21 14:22:49 +0000     2553 bytes  lighthouse-core/audits/dobetterweb/no-console-ti\</tspan>
 <tspan x="10" y="2298">me.js</tspan>
-<tspan x="10" y="2314"> 98.  2017-04-21 14:21:29 +0000     2450 bytes  lighthouse-core/audits/dobetterweb/no-datenow.js</tspan>
-<tspan x="10" y="2330"> 99.  2017-04-21 14:21:29 +0000     1869 bytes  lighthouse-core/audits/dobetterweb/no-document-w\</tspan>
+<tspan x="10" y="2314"> 98.  2017-04-21 14:22:49 +0000     2450 bytes  lighthouse-core/audits/dobetterweb/no-datenow.js</tspan>
+<tspan x="10" y="2330"> 99.  2017-04-21 14:22:49 +0000     1869 bytes  lighthouse-core/audits/dobetterweb/no-document-w\</tspan>
 <tspan x="10" y="2346">rite.js</tspan>
-<tspan x="10" y="2362">100.  2017-04-21 14:21:29 +0000     2886 bytes  lighthouse-core/audits/dobetterweb/no-mutation-e\</tspan>
+<tspan x="10" y="2362">100.  2017-04-21 14:22:49 +0000     2886 bytes  lighthouse-core/audits/dobetterweb/no-mutation-e\</tspan>
 <tspan x="10" y="2378">vents.js</tspan>
-<tspan x="10" y="2394">101.  2017-04-21 14:21:29 +0000     3173 bytes  lighthouse-core/audits/dobetterweb/no-old-flexbo\</tspan>
+<tspan x="10" y="2394">101.  2017-04-21 14:22:49 +0000     3173 bytes  lighthouse-core/audits/dobetterweb/no-old-flexbo\</tspan>
 <tspan x="10" y="2410">x.js</tspan>
-<tspan x="10" y="2426">102.  2017-04-21 14:21:29 +0000     1579 bytes  lighthouse-core/audits/dobetterweb/no-websql.js</tspan>
-<tspan x="10" y="2442">103.  2017-04-21 14:21:29 +0000     2059 bytes  lighthouse-core/audits/dobetterweb/notification-\</tspan>
+<tspan x="10" y="2426">102.  2017-04-21 14:22:49 +0000     1579 bytes  lighthouse-core/audits/dobetterweb/no-websql.js</tspan>
+<tspan x="10" y="2442">103.  2017-04-21 14:22:49 +0000     2059 bytes  lighthouse-core/audits/dobetterweb/notification-\</tspan>
 <tspan x="10" y="2458">on-start.js</tspan>
-<tspan x="10" y="2474">104.  2017-04-21 14:21:29 +0000     1758 bytes  lighthouse-core/audits/dobetterweb/script-blocki\</tspan>
+<tspan x="10" y="2474">104.  2017-04-21 14:22:49 +0000     1758 bytes  lighthouse-core/audits/dobetterweb/script-blocki\</tspan>
 <tspan x="10" y="2490">ng-first-paint.js</tspan>
-<tspan x="10" y="2506">105.  2017-04-21 14:21:29 +0000     2777 bytes  lighthouse-core/audits/dobetterweb/uses-http2.js</tspan>
-<tspan x="10" y="2522">106.  2017-04-21 14:21:29 +0000     3115 bytes  lighthouse-core/audits/dobetterweb/uses-passive-\</tspan>
+<tspan x="10" y="2506">105.  2017-04-21 14:22:49 +0000     2777 bytes  lighthouse-core/audits/dobetterweb/uses-http2.js</tspan>
+<tspan x="10" y="2522">106.  2017-04-21 14:22:49 +0000     3115 bytes  lighthouse-core/audits/dobetterweb/uses-passive-\</tspan>
 <tspan x="10" y="2538">event-listeners.js</tspan>
-<tspan x="10" y="2554">107.  2017-04-21 14:21:29 +0000     3674 bytes  lighthouse-core/audits/estimated-input-latency.j\</tspan>
+<tspan x="10" y="2554">107.  2017-04-21 14:22:49 +0000     3674 bytes  lighthouse-core/audits/estimated-input-latency.j\</tspan>
 <tspan x="10" y="2570">s</tspan>
-<tspan x="10" y="2586">108.  2017-04-21 14:21:29 +0000     4637 bytes  lighthouse-core/audits/first-meaningful-paint.js</tspan>
-<tspan x="10" y="2602">109.  2017-04-21 14:21:29 +0000     1618 bytes  lighthouse-core/audits/is-on-https.js</tspan>
-<tspan x="10" y="2618">110.  2017-04-21 14:21:29 +0000     2047 bytes  lighthouse-core/audits/manifest-background-color\</tspan>
+<tspan x="10" y="2586">108.  2017-04-21 14:22:49 +0000     4637 bytes  lighthouse-core/audits/first-meaningful-paint.js</tspan>
+<tspan x="10" y="2602">109.  2017-04-21 14:22:49 +0000     1618 bytes  lighthouse-core/audits/is-on-https.js</tspan>
+<tspan x="10" y="2618">110.  2017-04-21 14:22:49 +0000     2047 bytes  lighthouse-core/audits/manifest-background-color\</tspan>
 <tspan x="10" y="2634">.js</tspan>
-<tspan x="10" y="2650">111.  2017-04-21 14:21:29 +0000     2171 bytes  lighthouse-core/audits/manifest-display.js</tspan>
-<tspan x="10" y="2666">112.  2017-04-21 14:21:29 +0000     1641 bytes  lighthouse-core/audits/manifest-exists.js</tspan>
-<tspan x="10" y="2682">113.  2017-04-21 14:21:29 +0000     1993 bytes  lighthouse-core/audits/manifest-icons-min-144.js</tspan>
-<tspan x="10" y="2698">114.  2017-04-21 14:21:29 +0000     2250 bytes  lighthouse-core/audits/manifest-icons-min-192.js</tspan>
-<tspan x="10" y="2714">115.  2017-04-21 14:21:29 +0000     1609 bytes  lighthouse-core/audits/manifest-name.js</tspan>
-<tspan x="10" y="2730">116.  2017-04-21 14:21:29 +0000     2664 bytes  lighthouse-core/audits/manifest-short-name-lengt\</tspan>
+<tspan x="10" y="2650">111.  2017-04-21 14:22:49 +0000     2171 bytes  lighthouse-core/audits/manifest-display.js</tspan>
+<tspan x="10" y="2666">112.  2017-04-21 14:22:49 +0000     1641 bytes  lighthouse-core/audits/manifest-exists.js</tspan>
+<tspan x="10" y="2682">113.  2017-04-21 14:22:49 +0000     1993 bytes  lighthouse-core/audits/manifest-icons-min-144.js</tspan>
+<tspan x="10" y="2698">114.  2017-04-21 14:22:49 +0000     2250 bytes  lighthouse-core/audits/manifest-icons-min-192.js</tspan>
+<tspan x="10" y="2714">115.  2017-04-21 14:22:49 +0000     1609 bytes  lighthouse-core/audits/manifest-name.js</tspan>
+<tspan x="10" y="2730">116.  2017-04-21 14:22:49 +0000     2664 bytes  lighthouse-core/audits/manifest-short-name-lengt\</tspan>
 <tspan x="10" y="2746">h.js</tspan>
-<tspan x="10" y="2762">117.  2017-04-21 14:21:29 +0000     1762 bytes  lighthouse-core/audits/manifest-short-name.js</tspan>
-<tspan x="10" y="2778">118.  2017-04-21 14:21:29 +0000     1719 bytes  lighthouse-core/audits/manifest-start-url.js</tspan>
-<tspan x="10" y="2794">119.  2017-04-21 14:21:29 +0000     1687 bytes  lighthouse-core/audits/manifest-theme-color.js</tspan>
-<tspan x="10" y="2810">120.  2017-04-21 14:21:29 +0000     1469 bytes  lighthouse-core/audits/redirects-http.js</tspan>
-<tspan x="10" y="2826">121.  2017-04-21 14:21:29 +0000     1505 bytes  lighthouse-core/audits/screenshots.js</tspan>
-<tspan x="10" y="2842">122.  2017-04-21 14:21:29 +0000     2090 bytes  lighthouse-core/audits/service-worker.js</tspan>
-<tspan x="10" y="2858">123.  2017-04-21 14:21:29 +0000     4032 bytes  lighthouse-core/audits/speed-index-metric.js</tspan>
-<tspan x="10" y="2874">124.  2017-04-21 14:21:29 +0000     1684 bytes  lighthouse-core/audits/theme-color-meta.js</tspan>
-<tspan x="10" y="2890">125.  2017-04-21 14:21:29 +0000     6984 bytes  lighthouse-core/audits/time-to-interactive.js</tspan>
-<tspan x="10" y="2906">126.  2017-04-21 14:21:29 +0000     4432 bytes  lighthouse-core/audits/user-timings.js</tspan>
-<tspan x="10" y="2922">127.  2017-04-21 14:21:29 +0000     2247 bytes  lighthouse-core/audits/viewport.js</tspan>
-<tspan x="10" y="2938">128.  2017-04-21 14:21:29 +0000     1790 bytes  lighthouse-core/audits/without-javascript.js</tspan>
-<tspan x="10" y="2954">129.  2017-04-21 14:21:29 +0000     1438 bytes  lighthouse-core/audits/works-offline.js</tspan>
-<tspan x="10" y="2970">130.  2017-04-21 14:21:29 +0000     3072 bytes  lighthouse-core/closure/closure-type-checking.js</tspan>
-<tspan x="10" y="2986">131.  2017-04-21 14:21:29 +0000     2041 bytes  lighthouse-core/closure/conformance_config.textp\</tspan>
+<tspan x="10" y="2762">117.  2017-04-21 14:22:49 +0000     1762 bytes  lighthouse-core/audits/manifest-short-name.js</tspan>
+<tspan x="10" y="2778">118.  2017-04-21 14:22:49 +0000     1719 bytes  lighthouse-core/audits/manifest-start-url.js</tspan>
+<tspan x="10" y="2794">119.  2017-04-21 14:22:49 +0000     1687 bytes  lighthouse-core/audits/manifest-theme-color.js</tspan>
+<tspan x="10" y="2810">120.  2017-04-21 14:22:49 +0000     1469 bytes  lighthouse-core/audits/redirects-http.js</tspan>
+<tspan x="10" y="2826">121.  2017-04-21 14:22:49 +0000     1505 bytes  lighthouse-core/audits/screenshots.js</tspan>
+<tspan x="10" y="2842">122.  2017-04-21 14:22:49 +0000     2090 bytes  lighthouse-core/audits/service-worker.js</tspan>
+<tspan x="10" y="2858">123.  2017-04-21 14:22:49 +0000     4032 bytes  lighthouse-core/audits/speed-index-metric.js</tspan>
+<tspan x="10" y="2874">124.  2017-04-21 14:22:49 +0000     1684 bytes  lighthouse-core/audits/theme-color-meta.js</tspan>
+<tspan x="10" y="2890">125.  2017-04-21 14:22:49 +0000     6984 bytes  lighthouse-core/audits/time-to-interactive.js</tspan>
+<tspan x="10" y="2906">126.  2017-04-21 14:22:49 +0000     4432 bytes  lighthouse-core/audits/user-timings.js</tspan>
+<tspan x="10" y="2922">127.  2017-04-21 14:22:49 +0000     2247 bytes  lighthouse-core/audits/viewport.js</tspan>
+<tspan x="10" y="2938">128.  2017-04-21 14:22:49 +0000     1790 bytes  lighthouse-core/audits/without-javascript.js</tspan>
+<tspan x="10" y="2954">129.  2017-04-21 14:22:49 +0000     1438 bytes  lighthouse-core/audits/works-offline.js</tspan>
+<tspan x="10" y="2970">130.  2017-04-21 14:22:49 +0000     3072 bytes  lighthouse-core/closure/closure-type-checking.js</tspan>
+<tspan x="10" y="2986">131.  2017-04-21 14:22:49 +0000     2041 bytes  lighthouse-core/closure/conformance_config.textp\</tspan>
 <tspan x="10" y="3002">roto</tspan>
-<tspan x="10" y="3018">132.  2017-04-21 14:21:29 +0000     2944 bytes  lighthouse-core/closure/third_party/DevtoolsTime\</tspan>
+<tspan x="10" y="3018">132.  2017-04-21 14:22:49 +0000     2944 bytes  lighthouse-core/closure/third_party/DevtoolsTime\</tspan>
 <tspan x="10" y="3034">lineModel.js</tspan>
-<tspan x="10" y="3050">133.  2017-04-21 14:21:29 +0000      942 bytes  lighthouse-core/closure/third_party/WebInspector\</tspan>
+<tspan x="10" y="3050">133.  2017-04-21 14:22:49 +0000      942 bytes  lighthouse-core/closure/third_party/WebInspector\</tspan>
 <tspan x="10" y="3066">.js</tspan>
-<tspan x="10" y="3082">134.  2017-04-21 14:21:29 +0000      735 bytes  lighthouse-core/closure/third_party/node.js</tspan>
-<tspan x="10" y="3098">135.  2017-04-21 14:21:29 +0000     1107 bytes  lighthouse-core/closure/typedefs/Accessibility.j\</tspan>
+<tspan x="10" y="3082">134.  2017-04-21 14:22:49 +0000      735 bytes  lighthouse-core/closure/third_party/node.js</tspan>
+<tspan x="10" y="3098">135.  2017-04-21 14:22:49 +0000     1107 bytes  lighthouse-core/closure/typedefs/Accessibility.j\</tspan>
 <tspan x="10" y="3114">s</tspan>
-<tspan x="10" y="3130">136.  2017-04-21 14:21:29 +0000     2506 bytes  lighthouse-core/closure/typedefs/Aggregation.js</tspan>
-<tspan x="10" y="3146">137.  2017-04-21 14:21:29 +0000     2198 bytes  lighthouse-core/closure/typedefs/Artifacts.js</tspan>
-<tspan x="10" y="3162">138.  2017-04-21 14:21:29 +0000     1060 bytes  lighthouse-core/closure/typedefs/Audit.js</tspan>
-<tspan x="10" y="3178">139.  2017-04-21 14:21:29 +0000     3185 bytes  lighthouse-core/closure/typedefs/AuditResult.js</tspan>
-<tspan x="10" y="3194">140.  2017-04-21 14:21:29 +0000      992 bytes  lighthouse-core/closure/typedefs/Config.js</tspan>
-<tspan x="10" y="3210">141.  2017-04-21 14:21:29 +0000     2759 bytes  lighthouse-core/closure/typedefs/Manifest.js</tspan>
-<tspan x="10" y="3226">142.  2017-04-21 14:21:29 +0000     1742 bytes  lighthouse-core/closure/typedefs/ServiceWorkerAr\</tspan>
+<tspan x="10" y="3130">136.  2017-04-21 14:22:49 +0000     2506 bytes  lighthouse-core/closure/typedefs/Aggregation.js</tspan>
+<tspan x="10" y="3146">137.  2017-04-21 14:22:49 +0000     2198 bytes  lighthouse-core/closure/typedefs/Artifacts.js</tspan>
+<tspan x="10" y="3162">138.  2017-04-21 14:22:49 +0000     1060 bytes  lighthouse-core/closure/typedefs/Audit.js</tspan>
+<tspan x="10" y="3178">139.  2017-04-21 14:22:49 +0000     3185 bytes  lighthouse-core/closure/typedefs/AuditResult.js</tspan>
+<tspan x="10" y="3194">140.  2017-04-21 14:22:49 +0000      992 bytes  lighthouse-core/closure/typedefs/Config.js</tspan>
+<tspan x="10" y="3210">141.  2017-04-21 14:22:49 +0000     2759 bytes  lighthouse-core/closure/typedefs/Manifest.js</tspan>
+<tspan x="10" y="3226">142.  2017-04-21 14:22:49 +0000     1742 bytes  lighthouse-core/closure/typedefs/ServiceWorkerAr\</tspan>
 <tspan x="10" y="3242">tifact.js</tspan>
-<tspan x="10" y="3258">143.  2017-04-21 14:21:29 +0000     1377 bytes  lighthouse-core/closure/typedefs/SpeedlineArtifa\</tspan>
+<tspan x="10" y="3258">143.  2017-04-21 14:22:49 +0000     1377 bytes  lighthouse-core/closure/typedefs/SpeedlineArtifa\</tspan>
 <tspan x="10" y="3274">ct.js</tspan>
-<tspan x="10" y="3290">144.  2017-04-21 14:21:29 +0000     1472 bytes  lighthouse-core/closure/typedefs/Trace.js</tspan>
-<tspan x="10" y="3306">145.  2017-04-21 14:21:29 +0000    12141 bytes  lighthouse-core/config/config.js</tspan>
-<tspan x="10" y="3322">146.  2017-04-21 14:21:29 +0000    13458 bytes  lighthouse-core/config/default.json</tspan>
-<tspan x="10" y="3338">147.  2017-04-21 14:21:29 +0000     2487 bytes  lighthouse-core/config/perf.json</tspan>
-<tspan x="10" y="3354">148.  2017-04-21 14:21:29 +0000     1843 bytes  lighthouse-core/formatters/accessibility.js</tspan>
-<tspan x="10" y="3370">149.  2017-04-21 14:21:29 +0000     1425 bytes  lighthouse-core/formatters/cards.js</tspan>
-<tspan x="10" y="3386">150.  2017-04-21 14:21:29 +0000     9297 bytes  lighthouse-core/formatters/critical-request-chai\</tspan>
+<tspan x="10" y="3290">144.  2017-04-21 14:22:49 +0000     1472 bytes  lighthouse-core/closure/typedefs/Trace.js</tspan>
+<tspan x="10" y="3306">145.  2017-04-21 14:22:49 +0000    12141 bytes  lighthouse-core/config/config.js</tspan>
+<tspan x="10" y="3322">146.  2017-04-21 14:22:49 +0000    13458 bytes  lighthouse-core/config/default.json</tspan>
+<tspan x="10" y="3338">147.  2017-04-21 14:22:49 +0000     2487 bytes  lighthouse-core/config/perf.json</tspan>
+<tspan x="10" y="3354">148.  2017-04-21 14:22:49 +0000     1843 bytes  lighthouse-core/formatters/accessibility.js</tspan>
+<tspan x="10" y="3370">149.  2017-04-21 14:22:49 +0000     1425 bytes  lighthouse-core/formatters/cards.js</tspan>
+<tspan x="10" y="3386">150.  2017-04-21 14:22:49 +0000     9297 bytes  lighthouse-core/formatters/critical-request-chai\</tspan>
 <tspan x="10" y="3402">ns.js</tspan>
-<tspan x="10" y="3418">151.  2017-04-21 14:21:29 +0000     2467 bytes  lighthouse-core/formatters/formatter.js</tspan>
-<tspan x="10" y="3434">152.  2017-04-21 14:21:29 +0000      974 bytes  lighthouse-core/formatters/null-formatter.js</tspan>
-<tspan x="10" y="3450">153.  2017-04-21 14:21:29 +0000      411 bytes  lighthouse-core/formatters/partials/accessibilit\</tspan>
+<tspan x="10" y="3418">151.  2017-04-21 14:22:49 +0000     2467 bytes  lighthouse-core/formatters/formatter.js</tspan>
+<tspan x="10" y="3434">152.  2017-04-21 14:22:49 +0000      974 bytes  lighthouse-core/formatters/null-formatter.js</tspan>
+<tspan x="10" y="3450">153.  2017-04-21 14:22:49 +0000      411 bytes  lighthouse-core/formatters/partials/accessibilit\</tspan>
 <tspan x="10" y="3466">y.html</tspan>
-<tspan x="10" y="3482">154.  2017-04-21 14:21:29 +0000      904 bytes  lighthouse-core/formatters/partials/cards.css</tspan>
-<tspan x="10" y="3498">155.  2017-04-21 14:21:29 +0000      474 bytes  lighthouse-core/formatters/partials/cards.html</tspan>
-<tspan x="10" y="3514">156.  2017-04-21 14:21:29 +0000     6225 bytes  lighthouse-core/formatters/partials/critical-req\</tspan>
+<tspan x="10" y="3482">154.  2017-04-21 14:22:49 +0000      904 bytes  lighthouse-core/formatters/partials/cards.css</tspan>
+<tspan x="10" y="3498">155.  2017-04-21 14:22:49 +0000      474 bytes  lighthouse-core/formatters/partials/cards.html</tspan>
+<tspan x="10" y="3514">156.  2017-04-21 14:22:49 +0000     6225 bytes  lighthouse-core/formatters/partials/critical-req\</tspan>
 <tspan x="10" y="3530">uest-chains.css</tspan>
-<tspan x="10" y="3546">157.  2017-04-21 14:21:29 +0000     2342 bytes  lighthouse-core/formatters/partials/critical-req\</tspan>
+<tspan x="10" y="3546">157.  2017-04-21 14:22:49 +0000     2342 bytes  lighthouse-core/formatters/partials/critical-req\</tspan>
 <tspan x="10" y="3562">uest-chains.html</tspan>
-<tspan x="10" y="3578">158.  2017-04-21 14:21:29 +0000      254 bytes  lighthouse-core/formatters/partials/speedline.ht\</tspan>
+<tspan x="10" y="3578">158.  2017-04-21 14:22:49 +0000      254 bytes  lighthouse-core/formatters/partials/speedline.ht\</tspan>
 <tspan x="10" y="3594">ml</tspan>
-<tspan x="10" y="3610">159.  2017-04-21 14:21:29 +0000     1414 bytes  lighthouse-core/formatters/partials/table.css</tspan>
-<tspan x="10" y="3626">160.  2017-04-21 14:21:29 +0000      720 bytes  lighthouse-core/formatters/partials/table.html</tspan>
-<tspan x="10" y="3642">161.  2017-04-21 14:21:29 +0000      186 bytes  lighthouse-core/formatters/partials/url-list.css</tspan>
-<tspan x="10" y="3658">162.  2017-04-21 14:21:29 +0000      489 bytes  lighthouse-core/formatters/partials/url-list.htm\</tspan>
+<tspan x="10" y="3610">159.  2017-04-21 14:22:49 +0000     1414 bytes  lighthouse-core/formatters/partials/table.css</tspan>
+<tspan x="10" y="3626">160.  2017-04-21 14:22:49 +0000      720 bytes  lighthouse-core/formatters/partials/table.html</tspan>
+<tspan x="10" y="3642">161.  2017-04-21 14:22:49 +0000      186 bytes  lighthouse-core/formatters/partials/url-list.css</tspan>
+<tspan x="10" y="3658">162.  2017-04-21 14:22:49 +0000      489 bytes  lighthouse-core/formatters/partials/url-list.htm\</tspan>
 <tspan x="10" y="3674">l</tspan>
-<tspan x="10" y="3690">163.  2017-04-21 14:21:29 +0000       53 bytes  lighthouse-core/formatters/partials/user-timings\</tspan>
+<tspan x="10" y="3690">163.  2017-04-21 14:22:49 +0000       53 bytes  lighthouse-core/formatters/partials/user-timings\</tspan>
 <tspan x="10" y="3706">.css</tspan>
-<tspan x="10" y="3722">164.  2017-04-21 14:21:29 +0000      514 bytes  lighthouse-core/formatters/partials/user-timings\</tspan>
+<tspan x="10" y="3722">164.  2017-04-21 14:22:49 +0000      514 bytes  lighthouse-core/formatters/partials/user-timings\</tspan>
 <tspan x="10" y="3738">.html</tspan>
-<tspan x="10" y="3754">165.  2017-04-21 14:21:29 +0000     1484 bytes  lighthouse-core/formatters/speedline-formatter.j\</tspan>
+<tspan x="10" y="3754">165.  2017-04-21 14:22:49 +0000     1484 bytes  lighthouse-core/formatters/speedline-formatter.j\</tspan>
 <tspan x="10" y="3770">s</tspan>
-<tspan x="10" y="3786">166.  2017-04-21 14:21:29 +0000     4344 bytes  lighthouse-core/formatters/table.js</tspan>
-<tspan x="10" y="3802">167.  2017-04-21 14:21:29 +0000     1546 bytes  lighthouse-core/formatters/url-list.js</tspan>
-<tspan x="10" y="3818">168.  2017-04-21 14:21:29 +0000     1885 bytes  lighthouse-core/formatters/user-timings.js</tspan>
-<tspan x="10" y="3834">169.  2017-04-21 14:21:29 +0000     1591 bytes  lighthouse-core/gather/computed/computed-artifac\</tspan>
+<tspan x="10" y="3786">166.  2017-04-21 14:22:49 +0000     4344 bytes  lighthouse-core/formatters/table.js</tspan>
+<tspan x="10" y="3802">167.  2017-04-21 14:22:49 +0000     1546 bytes  lighthouse-core/formatters/url-list.js</tspan>
+<tspan x="10" y="3818">168.  2017-04-21 14:22:49 +0000     1885 bytes  lighthouse-core/formatters/user-timings.js</tspan>
+<tspan x="10" y="3834">169.  2017-04-21 14:22:49 +0000     1591 bytes  lighthouse-core/gather/computed/computed-artifac\</tspan>
 <tspan x="10" y="3850">t.js</tspan>
-<tspan x="10" y="3866">170.  2017-04-21 14:21:29 +0000     4818 bytes  lighthouse-core/gather/computed/critical-request\</tspan>
+<tspan x="10" y="3866">170.  2017-04-21 14:22:49 +0000     4818 bytes  lighthouse-core/gather/computed/critical-request\</tspan>
 <tspan x="10" y="3882">-chains.js</tspan>
-<tspan x="10" y="3898">171.  2017-04-21 14:21:29 +0000     2224 bytes  lighthouse-core/gather/computed/network-throughp\</tspan>
+<tspan x="10" y="3898">171.  2017-04-21 14:22:49 +0000     2224 bytes  lighthouse-core/gather/computed/network-throughp\</tspan>
 <tspan x="10" y="3914">ut.js</tspan>
-<tspan x="10" y="3930">172.  2017-04-21 14:21:29 +0000     1150 bytes  lighthouse-core/gather/computed/pushed-requests.\</tspan>
+<tspan x="10" y="3930">172.  2017-04-21 14:22:49 +0000     1150 bytes  lighthouse-core/gather/computed/pushed-requests.\</tspan>
 <tspan x="10" y="3946">js</tspan>
-<tspan x="10" y="3962">173.  2017-04-21 14:21:29 +0000     1582 bytes  lighthouse-core/gather/computed/screenshots.js</tspan>
-<tspan x="10" y="3978">174.  2017-04-21 14:21:29 +0000     1186 bytes  lighthouse-core/gather/computed/speedline.js</tspan>
-<tspan x="10" y="3994">175.  2017-04-21 14:21:29 +0000     4337 bytes  lighthouse-core/gather/computed/trace-of-tab.js</tspan>
-<tspan x="10" y="4010">176.  2017-04-21 14:21:29 +0000     1153 bytes  lighthouse-core/gather/computed/tracing-model.js</tspan>
-<tspan x="10" y="4026">177.  2017-04-21 14:21:29 +0000     3630 bytes  lighthouse-core/gather/connections/connection.js</tspan>
-<tspan x="10" y="4042">178.  2017-04-21 14:21:29 +0000     4593 bytes  lighthouse-core/gather/connections/cri.js</tspan>
-<tspan x="10" y="4058">179.  2017-04-21 14:21:29 +0000     5055 bytes  lighthouse-core/gather/connections/extension.js</tspan>
-<tspan x="10" y="4074">180.  2017-04-21 14:21:29 +0000     1590 bytes  lighthouse-core/gather/connections/raw.js</tspan>
-<tspan x="10" y="4090">181.  2017-04-21 14:21:29 +0000     1640 bytes  lighthouse-core/gather/devtools-log.js</tspan>
-<tspan x="10" y="4106">182.  2017-04-21 14:21:29 +0000    29788 bytes  lighthouse-core/gather/driver.js</tspan>
-<tspan x="10" y="4122">183.  2017-04-21 14:21:29 +0000    16446 bytes  lighthouse-core/gather/gather-runner.js</tspan>
-<tspan x="10" y="4138">184.  2017-04-21 14:21:29 +0000     1929 bytes  lighthouse-core/gather/gatherers/accessibility.j\</tspan>
+<tspan x="10" y="3962">173.  2017-04-21 14:22:49 +0000     1582 bytes  lighthouse-core/gather/computed/screenshots.js</tspan>
+<tspan x="10" y="3978">174.  2017-04-21 14:22:49 +0000     1186 bytes  lighthouse-core/gather/computed/speedline.js</tspan>
+<tspan x="10" y="3994">175.  2017-04-21 14:22:49 +0000     4337 bytes  lighthouse-core/gather/computed/trace-of-tab.js</tspan>
+<tspan x="10" y="4010">176.  2017-04-21 14:22:49 +0000     1153 bytes  lighthouse-core/gather/computed/tracing-model.js</tspan>
+<tspan x="10" y="4026">177.  2017-04-21 14:22:49 +0000     3630 bytes  lighthouse-core/gather/connections/connection.js</tspan>
+<tspan x="10" y="4042">178.  2017-04-21 14:22:49 +0000     4593 bytes  lighthouse-core/gather/connections/cri.js</tspan>
+<tspan x="10" y="4058">179.  2017-04-21 14:22:49 +0000     5055 bytes  lighthouse-core/gather/connections/extension.js</tspan>
+<tspan x="10" y="4074">180.  2017-04-21 14:22:49 +0000     1590 bytes  lighthouse-core/gather/connections/raw.js</tspan>
+<tspan x="10" y="4090">181.  2017-04-21 14:22:49 +0000     1640 bytes  lighthouse-core/gather/devtools-log.js</tspan>
+<tspan x="10" y="4106">182.  2017-04-21 14:22:49 +0000    29788 bytes  lighthouse-core/gather/driver.js</tspan>
+<tspan x="10" y="4122">183.  2017-04-21 14:22:49 +0000    16446 bytes  lighthouse-core/gather/gather-runner.js</tspan>
+<tspan x="10" y="4138">184.  2017-04-21 14:22:49 +0000     1929 bytes  lighthouse-core/gather/gatherers/accessibility.j\</tspan>
 <tspan x="10" y="4154">s</tspan>
-<tspan x="10" y="4170">185.  2017-04-21 14:21:29 +0000     1952 bytes  lighthouse-core/gather/gatherers/cache-contents.\</tspan>
+<tspan x="10" y="4170">185.  2017-04-21 14:22:49 +0000     1952 bytes  lighthouse-core/gather/gatherers/cache-contents.\</tspan>
 <tspan x="10" y="4186">js</tspan>
-<tspan x="10" y="4202">186.  2017-04-21 14:21:29 +0000     1404 bytes  lighthouse-core/gather/gatherers/chrome-console-\</tspan>
+<tspan x="10" y="4202">186.  2017-04-21 14:22:49 +0000     1404 bytes  lighthouse-core/gather/gatherers/chrome-console-\</tspan>
 <tspan x="10" y="4218">messages.js</tspan>
-<tspan x="10" y="4234">187.  2017-04-21 14:21:29 +0000     1840 bytes  lighthouse-core/gather/gatherers/content-width.j\</tspan>
+<tspan x="10" y="4234">187.  2017-04-21 14:22:49 +0000     1840 bytes  lighthouse-core/gather/gatherers/content-width.j\</tspan>
 <tspan x="10" y="4250">s</tspan>
-<tspan x="10" y="4266">188.  2017-04-21 14:21:29 +0000     1561 bytes  lighthouse-core/gather/gatherers/css-usage.js</tspan>
-<tspan x="10" y="4282">189.  2017-04-21 14:21:29 +0000     4774 bytes  lighthouse-core/gather/gatherers/dobetterweb/all\</tspan>
+<tspan x="10" y="4266">188.  2017-04-21 14:22:49 +0000     1561 bytes  lighthouse-core/gather/gatherers/css-usage.js</tspan>
+<tspan x="10" y="4282">189.  2017-04-21 14:22:49 +0000     4774 bytes  lighthouse-core/gather/gatherers/dobetterweb/all\</tspan>
 <tspan x="10" y="4298">-event-listeners.js</tspan>
-<tspan x="10" y="4314">190.  2017-04-21 14:21:29 +0000     1566 bytes  lighthouse-core/gather/gatherers/dobetterweb/anc\</tspan>
+<tspan x="10" y="4314">190.  2017-04-21 14:22:49 +0000     1566 bytes  lighthouse-core/gather/gatherers/dobetterweb/anc\</tspan>
 <tspan x="10" y="4330">hors-with-no-rel-noopener.js</tspan>
-<tspan x="10" y="4346">191.  2017-04-21 14:21:29 +0000     1105 bytes  lighthouse-core/gather/gatherers/dobetterweb/app\</tspan>
+<tspan x="10" y="4346">191.  2017-04-21 14:22:49 +0000     1105 bytes  lighthouse-core/gather/gatherers/dobetterweb/app\</tspan>
 <tspan x="10" y="4362">cache.js</tspan>
-<tspan x="10" y="4378">192.  2017-04-21 14:21:29 +0000     1090 bytes  lighthouse-core/gather/gatherers/dobetterweb/con\</tspan>
+<tspan x="10" y="4378">192.  2017-04-21 14:22:49 +0000     1090 bytes  lighthouse-core/gather/gatherers/dobetterweb/con\</tspan>
 <tspan x="10" y="4394">sole-time-usage.js</tspan>
-<tspan x="10" y="4410">193.  2017-04-21 14:21:29 +0000     1070 bytes  lighthouse-core/gather/gatherers/dobetterweb/dat\</tspan>
+<tspan x="10" y="4410">193.  2017-04-21 14:22:49 +0000     1070 bytes  lighthouse-core/gather/gatherers/dobetterweb/dat\</tspan>
 <tspan x="10" y="4426">enow.js</tspan>
-<tspan x="10" y="4442">194.  2017-04-21 14:21:29 +0000     1084 bytes  lighthouse-core/gather/gatherers/dobetterweb/doc\</tspan>
+<tspan x="10" y="4442">194.  2017-04-21 14:22:49 +0000     1084 bytes  lighthouse-core/gather/gatherers/dobetterweb/doc\</tspan>
 <tspan x="10" y="4458">ument-write.js</tspan>
-<tspan x="10" y="4474">195.  2017-04-21 14:21:29 +0000     3947 bytes  lighthouse-core/gather/gatherers/dobetterweb/dom\</tspan>
+<tspan x="10" y="4474">195.  2017-04-21 14:22:49 +0000     3947 bytes  lighthouse-core/gather/gatherers/dobetterweb/dom\</tspan>
 <tspan x="10" y="4490">stats.js</tspan>
-<tspan x="10" y="4506">196.  2017-04-21 14:21:29 +0000     2251 bytes  lighthouse-core/gather/gatherers/dobetterweb/geo\</tspan>
+<tspan x="10" y="4506">196.  2017-04-21 14:22:49 +0000     2251 bytes  lighthouse-core/gather/gatherers/dobetterweb/geo\</tspan>
 <tspan x="10" y="4522">location-on-start.js</tspan>
-<tspan x="10" y="4538">197.  2017-04-21 14:21:29 +0000     1480 bytes  lighthouse-core/gather/gatherers/dobetterweb/not\</tspan>
+<tspan x="10" y="4538">197.  2017-04-21 14:22:49 +0000     1480 bytes  lighthouse-core/gather/gatherers/dobetterweb/not\</tspan>
 <tspan x="10" y="4554">ification-on-start.js</tspan>
-<tspan x="10" y="4570">198.  2017-04-21 14:21:29 +0000     4702 bytes  lighthouse-core/gather/gatherers/dobetterweb/opt\</tspan>
+<tspan x="10" y="4570">198.  2017-04-21 14:22:49 +0000     4702 bytes  lighthouse-core/gather/gatherers/dobetterweb/opt\</tspan>
 <tspan x="10" y="4586">imized-images.js</tspan>
-<tspan x="10" y="4602">199.  2017-04-21 14:21:29 +0000     5666 bytes  lighthouse-core/gather/gatherers/dobetterweb/tag\</tspan>
+<tspan x="10" y="4602">199.  2017-04-21 14:22:49 +0000     5666 bytes  lighthouse-core/gather/gatherers/dobetterweb/tag\</tspan>
 <tspan x="10" y="4618">s-blocking-first-paint.js</tspan>
-<tspan x="10" y="4634">200.  2017-04-21 14:21:29 +0000     1798 bytes  lighthouse-core/gather/gatherers/dobetterweb/web\</tspan>
+<tspan x="10" y="4634">200.  2017-04-21 14:22:49 +0000     1798 bytes  lighthouse-core/gather/gatherers/dobetterweb/web\</tspan>
 <tspan x="10" y="4650">sql.js</tspan>
-<tspan x="10" y="4666">201.  2017-04-21 14:21:29 +0000     2115 bytes  lighthouse-core/gather/gatherers/gatherer.js</tspan>
-<tspan x="10" y="4682">202.  2017-04-21 14:21:29 +0000     1633 bytes  lighthouse-core/gather/gatherers/html-without-ja\</tspan>
+<tspan x="10" y="4666">201.  2017-04-21 14:22:49 +0000     2115 bytes  lighthouse-core/gather/gatherers/gatherer.js</tspan>
+<tspan x="10" y="4682">202.  2017-04-21 14:22:49 +0000     1633 bytes  lighthouse-core/gather/gatherers/html-without-ja\</tspan>
 <tspan x="10" y="4698">vascript.js</tspan>
-<tspan x="10" y="4714">203.  2017-04-21 14:21:29 +0000     2262 bytes  lighthouse-core/gather/gatherers/http-redirect.j\</tspan>
+<tspan x="10" y="4714">203.  2017-04-21 14:22:49 +0000     2262 bytes  lighthouse-core/gather/gatherers/http-redirect.j\</tspan>
 <tspan x="10" y="4730">s</tspan>
-<tspan x="10" y="4746">204.  2017-04-21 14:21:29 +0000     1984 bytes  lighthouse-core/gather/gatherers/https.js</tspan>
-<tspan x="10" y="4762">205.  2017-04-21 14:21:29 +0000     3617 bytes  lighthouse-core/gather/gatherers/image-usage.js</tspan>
-<tspan x="10" y="4778">206.  2017-04-21 14:21:29 +0000     2119 bytes  lighthouse-core/gather/gatherers/manifest.js</tspan>
-<tspan x="10" y="4794">207.  2017-04-21 14:21:29 +0000     1270 bytes  lighthouse-core/gather/gatherers/offline.js</tspan>
-<tspan x="10" y="4810">208.  2017-04-21 14:21:29 +0000      968 bytes  lighthouse-core/gather/gatherers/service-worker.\</tspan>
+<tspan x="10" y="4746">204.  2017-04-21 14:22:49 +0000     1984 bytes  lighthouse-core/gather/gatherers/https.js</tspan>
+<tspan x="10" y="4762">205.  2017-04-21 14:22:49 +0000     3617 bytes  lighthouse-core/gather/gatherers/image-usage.js</tspan>
+<tspan x="10" y="4778">206.  2017-04-21 14:22:49 +0000     2119 bytes  lighthouse-core/gather/gatherers/manifest.js</tspan>
+<tspan x="10" y="4794">207.  2017-04-21 14:22:49 +0000     1270 bytes  lighthouse-core/gather/gatherers/offline.js</tspan>
+<tspan x="10" y="4810">208.  2017-04-21 14:22:49 +0000      968 bytes  lighthouse-core/gather/gatherers/service-worker.\</tspan>
 <tspan x="10" y="4826">js</tspan>
-<tspan x="10" y="4842">209.  2017-04-21 14:21:29 +0000     5139 bytes  lighthouse-core/gather/gatherers/styles.js</tspan>
-<tspan x="10" y="4858">210.  2017-04-21 14:21:29 +0000     1089 bytes  lighthouse-core/gather/gatherers/theme-color.js</tspan>
-<tspan x="10" y="4874">211.  2017-04-21 14:21:29 +0000     1130 bytes  lighthouse-core/gather/gatherers/url.js</tspan>
-<tspan x="10" y="4890">212.  2017-04-21 14:21:29 +0000     1091 bytes  lighthouse-core/gather/gatherers/viewport.js</tspan>
-<tspan x="10" y="4906">213.  2017-04-21 14:21:29 +0000     2163 bytes  lighthouse-core/index.js</tspan>
-<tspan x="10" y="4922">214.  2017-04-21 14:21:29 +0000     4378 bytes  lighthouse-core/lib/asset-saver.js</tspan>
-<tspan x="10" y="4938">215.  2017-04-21 14:21:29 +0000     1724 bytes  lighthouse-core/lib/console-quieter.js</tspan>
-<tspan x="10" y="4954">216.  2017-04-21 14:21:29 +0000     1839 bytes  lighthouse-core/lib/element.js</tspan>
-<tspan x="10" y="4970">217.  2017-04-21 14:21:29 +0000      789 bytes  lighthouse-core/lib/empty-stub.js</tspan>
-<tspan x="10" y="4986">218.  2017-04-21 14:21:29 +0000     4622 bytes  lighthouse-core/lib/emulation.js</tspan>
-<tspan x="10" y="5002">219.  2017-04-21 14:21:29 +0000     3231 bytes  lighthouse-core/lib/event-helpers.js</tspan>
-<tspan x="10" y="5018">220.  2017-04-21 14:21:29 +0000     1761 bytes  lighthouse-core/lib/file-namer.js</tspan>
-<tspan x="10" y="5034">221.  2017-04-21 14:21:29 +0000     2514 bytes  lighthouse-core/lib/icons.js</tspan>
-<tspan x="10" y="5050">222.  2017-04-21 14:21:29 +0000     5438 bytes  lighthouse-core/lib/log.js</tspan>
-<tspan x="10" y="5066">223.  2017-04-21 14:21:29 +0000     9715 bytes  lighthouse-core/lib/manifest-parser.js</tspan>
-<tspan x="10" y="5082">224.  2017-04-21 14:21:29 +0000     5986 bytes  lighthouse-core/lib/network-recorder.js</tspan>
-<tspan x="10" y="5098">225.  2017-04-21 14:21:29 +0000     4473 bytes  lighthouse-core/lib/styles-helpers.js</tspan>
-<tspan x="10" y="5114">226.  2017-04-21 14:21:29 +0000     4276 bytes  lighthouse-core/lib/traces/devtools-timeline-mod\</tspan>
+<tspan x="10" y="4842">209.  2017-04-21 14:22:49 +0000     5139 bytes  lighthouse-core/gather/gatherers/styles.js</tspan>
+<tspan x="10" y="4858">210.  2017-04-21 14:22:49 +0000     1089 bytes  lighthouse-core/gather/gatherers/theme-color.js</tspan>
+<tspan x="10" y="4874">211.  2017-04-21 14:22:49 +0000     1130 bytes  lighthouse-core/gather/gatherers/url.js</tspan>
+<tspan x="10" y="4890">212.  2017-04-21 14:22:49 +0000     1091 bytes  lighthouse-core/gather/gatherers/viewport.js</tspan>
+<tspan x="10" y="4906">213.  2017-04-21 14:22:49 +0000     2163 bytes  lighthouse-core/index.js</tspan>
+<tspan x="10" y="4922">214.  2017-04-21 14:22:49 +0000     4378 bytes  lighthouse-core/lib/asset-saver.js</tspan>
+<tspan x="10" y="4938">215.  2017-04-21 14:22:49 +0000     1724 bytes  lighthouse-core/lib/console-quieter.js</tspan>
+<tspan x="10" y="4954">216.  2017-04-21 14:22:49 +0000     1839 bytes  lighthouse-core/lib/element.js</tspan>
+<tspan x="10" y="4970">217.  2017-04-21 14:22:49 +0000      789 bytes  lighthouse-core/lib/empty-stub.js</tspan>
+<tspan x="10" y="4986">218.  2017-04-21 14:22:49 +0000     4622 bytes  lighthouse-core/lib/emulation.js</tspan>
+<tspan x="10" y="5002">219.  2017-04-21 14:22:49 +0000     3231 bytes  lighthouse-core/lib/event-helpers.js</tspan>
+<tspan x="10" y="5018">220.  2017-04-21 14:22:49 +0000     1761 bytes  lighthouse-core/lib/file-namer.js</tspan>
+<tspan x="10" y="5034">221.  2017-04-21 14:22:49 +0000     2514 bytes  lighthouse-core/lib/icons.js</tspan>
+<tspan x="10" y="5050">222.  2017-04-21 14:22:49 +0000     5438 bytes  lighthouse-core/lib/log.js</tspan>
+<tspan x="10" y="5066">223.  2017-04-21 14:22:49 +0000     9715 bytes  lighthouse-core/lib/manifest-parser.js</tspan>
+<tspan x="10" y="5082">224.  2017-04-21 14:22:49 +0000     5986 bytes  lighthouse-core/lib/network-recorder.js</tspan>
+<tspan x="10" y="5098">225.  2017-04-21 14:22:49 +0000     4473 bytes  lighthouse-core/lib/styles-helpers.js</tspan>
+<tspan x="10" y="5114">226.  2017-04-21 14:22:49 +0000     4276 bytes  lighthouse-core/lib/traces/devtools-timeline-mod\</tspan>
 <tspan x="10" y="5130">el.js</tspan>
-<tspan x="10" y="5146">227.  2017-04-21 14:21:29 +0000     6800 bytes  lighthouse-core/lib/traces/pwmetrics-events.js</tspan>
-<tspan x="10" y="5162">228.  2017-04-21 14:21:29 +0000    10318 bytes  lighthouse-core/lib/traces/tracing-processor.js</tspan>
-<tspan x="10" y="5178">229.  2017-04-21 14:21:29 +0000     4221 bytes  lighthouse-core/lib/url-shim.js</tspan>
-<tspan x="10" y="5194">230.  2017-04-21 14:21:29 +0000     9164 bytes  lighthouse-core/lib/web-inspector.js</tspan>
-<tspan x="10" y="5210">231.  2017-04-21 14:21:29 +0000     6232 bytes  lighthouse-core/report/handlebar-helpers.js</tspan>
-<tspan x="10" y="5226">232.  2017-04-21 14:21:29 +0000     6685 bytes  lighthouse-core/report/report-generator.js</tspan>
-<tspan x="10" y="5242">233.  2017-04-21 14:21:29 +0000     7768 bytes  lighthouse-core/report/scripts/lighthouse-report\</tspan>
+<tspan x="10" y="5146">227.  2017-04-21 14:22:49 +0000     6800 bytes  lighthouse-core/lib/traces/pwmetrics-events.js</tspan>
+<tspan x="10" y="5162">228.  2017-04-21 14:22:49 +0000    10318 bytes  lighthouse-core/lib/traces/tracing-processor.js</tspan>
+<tspan x="10" y="5178">229.  2017-04-21 14:22:49 +0000     4221 bytes  lighthouse-core/lib/url-shim.js</tspan>
+<tspan x="10" y="5194">230.  2017-04-21 14:22:49 +0000     9164 bytes  lighthouse-core/lib/web-inspector.js</tspan>
+<tspan x="10" y="5210">231.  2017-04-21 14:22:49 +0000     6232 bytes  lighthouse-core/report/handlebar-helpers.js</tspan>
+<tspan x="10" y="5226">232.  2017-04-21 14:22:49 +0000     6685 bytes  lighthouse-core/report/report-generator.js</tspan>
+<tspan x="10" y="5242">233.  2017-04-21 14:22:49 +0000     7768 bytes  lighthouse-core/report/scripts/lighthouse-report\</tspan>
 <tspan x="10" y="5258">.js</tspan>
-<tspan x="10" y="5274">234.  2017-04-21 14:21:29 +0000     1693 bytes  lighthouse-core/report/scripts/logger.js</tspan>
-<tspan x="10" y="5290">235.  2017-04-21 14:21:29 +0000    57698 bytes  lighthouse-core/report/styles/report.css</tspan>
-<tspan x="10" y="5306">236.  2017-04-21 14:21:29 +0000     1620 bytes  lighthouse-core/report/templates/exception.html</tspan>
-<tspan x="10" y="5322">237.  2017-04-21 14:21:29 +0000    12077 bytes  lighthouse-core/report/templates/report-template\</tspan>
+<tspan x="10" y="5274">234.  2017-04-21 14:22:49 +0000     1693 bytes  lighthouse-core/report/scripts/logger.js</tspan>
+<tspan x="10" y="5290">235.  2017-04-21 14:22:49 +0000    57698 bytes  lighthouse-core/report/styles/report.css</tspan>
+<tspan x="10" y="5306">236.  2017-04-21 14:22:49 +0000     1620 bytes  lighthouse-core/report/templates/exception.html</tspan>
+<tspan x="10" y="5322">237.  2017-04-21 14:22:49 +0000    12077 bytes  lighthouse-core/report/templates/report-template\</tspan>
 <tspan x="10" y="5338">.html</tspan>
-<tspan x="10" y="5354">238.  2017-04-21 14:21:29 +0000    11516 bytes  lighthouse-core/runner.js</tspan>
-<tspan x="10" y="5370">239.  2017-04-21 14:21:29 +0000     5420 bytes  lighthouse-core/scripts/build-traceviewer-module\</tspan>
+<tspan x="10" y="5354">238.  2017-04-21 14:22:49 +0000    11516 bytes  lighthouse-core/runner.js</tspan>
+<tspan x="10" y="5370">239.  2017-04-21 14:22:49 +0000     5420 bytes  lighthouse-core/scripts/build-traceviewer-module\</tspan>
 <tspan x="10" y="5386">.js</tspan>
-<tspan x="10" y="5402">240.  2017-04-21 14:21:29 +0000      533 bytes  lighthouse-core/scripts/download-chrome.sh</tspan>
-<tspan x="10" y="5418">241.  2017-04-21 14:21:29 +0000     3249 bytes  lighthouse-core/scripts/restart-travis-builds.rb</tspan>
-<tspan x="10" y="5434">242.  2017-04-21 14:21:29 +0000      595 bytes  lighthouse-core/scripts/run-mocha.sh</tspan>
-<tspan x="10" y="5450">243.  2017-04-21 14:21:29 +0000      440 bytes  lighthouse-core/scripts/traceviewer-module-index\</tspan>
+<tspan x="10" y="5402">240.  2017-04-21 14:22:49 +0000      533 bytes  lighthouse-core/scripts/download-chrome.sh</tspan>
+<tspan x="10" y="5418">241.  2017-04-21 14:22:49 +0000     3249 bytes  lighthouse-core/scripts/restart-travis-builds.rb</tspan>
+<tspan x="10" y="5434">242.  2017-04-21 14:22:49 +0000      595 bytes  lighthouse-core/scripts/run-mocha.sh</tspan>
+<tspan x="10" y="5450">243.  2017-04-21 14:22:49 +0000      440 bytes  lighthouse-core/scripts/traceviewer-module-index\</tspan>
 <tspan x="10" y="5466">.html</tspan>
-<tspan x="10" y="5482">244.  2017-04-21 14:21:29 +0000     1483 bytes  lighthouse-core/third_party/traceviewer-js/LICEN\</tspan>
+<tspan x="10" y="5482">244.  2017-04-21 14:22:49 +0000     1483 bytes  lighthouse-core/third_party/traceviewer-js/LICEN\</tspan>
 <tspan x="10" y="5498">SE</tspan>
-<tspan x="10" y="5514">245.  2017-04-21 14:21:29 +0000     3248 bytes  lighthouse-core/third_party/traceviewer-js/base/\</tspan>
+<tspan x="10" y="5514">245.  2017-04-21 14:22:49 +0000     3248 bytes  lighthouse-core/third_party/traceviewer-js/base/\</tspan>
 <tspan x="10" y="5530">base.js</tspan>
-<tspan x="10" y="5546">246.  2017-04-21 14:21:29 +0000     1214 bytes  lighthouse-core/third_party/traceviewer-js/base/\</tspan>
+<tspan x="10" y="5546">246.  2017-04-21 14:22:49 +0000     1214 bytes  lighthouse-core/third_party/traceviewer-js/base/\</tspan>
 <tspan x="10" y="5562">base64.js</tspan>
-<tspan x="10" y="5578">247.  2017-04-21 14:21:29 +0000      333 bytes  lighthouse-core/third_party/traceviewer-js/base/\</tspan>
+<tspan x="10" y="5578">247.  2017-04-21 14:22:49 +0000      333 bytes  lighthouse-core/third_party/traceviewer-js/base/\</tspan>
 <tspan x="10" y="5594">category_util.js</tspan>
-<tspan x="10" y="5610">248.  2017-04-21 14:21:29 +0000     3982 bytes  lighthouse-core/third_party/traceviewer-js/base/\</tspan>
+<tspan x="10" y="5610">248.  2017-04-21 14:22:49 +0000     3982 bytes  lighthouse-core/third_party/traceviewer-js/base/\</tspan>
 <tspan x="10" y="5626">color.js</tspan>
-<tspan x="10" y="5642">249.  2017-04-21 14:21:29 +0000     4967 bytes  lighthouse-core/third_party/traceviewer-js/base/\</tspan>
+<tspan x="10" y="5642">249.  2017-04-21 14:22:49 +0000     4967 bytes  lighthouse-core/third_party/traceviewer-js/base/\</tspan>
 <tspan x="10" y="5658">color_scheme.js</tspan>
-<tspan x="10" y="5674">250.  2017-04-21 14:21:29 +0000     1088 bytes  lighthouse-core/third_party/traceviewer-js/base/\</tspan>
+<tspan x="10" y="5674">250.  2017-04-21 14:22:49 +0000     1088 bytes  lighthouse-core/third_party/traceviewer-js/base/\</tspan>
 <tspan x="10" y="5690">event.js</tspan>
-<tspan x="10" y="5706">251.  2017-04-21 14:21:29 +0000     2236 bytes  lighthouse-core/third_party/traceviewer-js/base/\</tspan>
+<tspan x="10" y="5706">251.  2017-04-21 14:22:49 +0000     2236 bytes  lighthouse-core/third_party/traceviewer-js/base/\</tspan>
 <tspan x="10" y="5722">event_target.js</tspan>
-<tspan x="10" y="5738">252.  2017-04-21 14:21:29 +0000      828 bytes  lighthouse-core/third_party/traceviewer-js/base/\</tspan>
+<tspan x="10" y="5738">252.  2017-04-21 14:22:49 +0000      828 bytes  lighthouse-core/third_party/traceviewer-js/base/\</tspan>
 <tspan x="10" y="5754">extension_registry.js</tspan>
-<tspan x="10" y="5770">253.  2017-04-21 14:21:29 +0000     1922 bytes  lighthouse-core/third_party/traceviewer-js/base/\</tspan>
+<tspan x="10" y="5770">253.  2017-04-21 14:22:49 +0000     1922 bytes  lighthouse-core/third_party/traceviewer-js/base/\</tspan>
 <tspan x="10" y="5786">extension_registry_base.js</tspan>
-<tspan x="10" y="5802">254.  2017-04-21 14:21:29 +0000     2871 bytes  lighthouse-core/third_party/traceviewer-js/base/\</tspan>
+<tspan x="10" y="5802">254.  2017-04-21 14:22:49 +0000     2871 bytes  lighthouse-core/third_party/traceviewer-js/base/\</tspan>
 <tspan x="10" y="5818">extension_registry_basic.js</tspan>
-<tspan x="10" y="5834">255.  2017-04-21 14:21:29 +0000     4099 bytes  lighthouse-core/third_party/traceviewer-js/base/\</tspan>
+<tspan x="10" y="5834">255.  2017-04-21 14:22:49 +0000     4099 bytes  lighthouse-core/third_party/traceviewer-js/base/\</tspan>
 <tspan x="10" y="5850">extension_registry_type_based.js</tspan>
-<tspan x="10" y="5866">256.  2017-04-21 14:21:29 +0000      438 bytes  lighthouse-core/third_party/traceviewer-js/base/\</tspan>
+<tspan x="10" y="5866">256.  2017-04-21 14:22:49 +0000      438 bytes  lighthouse-core/third_party/traceviewer-js/base/\</tspan>
 <tspan x="10" y="5882">guid.js</tspan>
-<tspan x="10" y="5898">257.  2017-04-21 14:21:29 +0000     4963 bytes  lighthouse-core/third_party/traceviewer-js/base/\</tspan>
+<tspan x="10" y="5898">257.  2017-04-21 14:22:49 +0000     4963 bytes  lighthouse-core/third_party/traceviewer-js/base/\</tspan>
 <tspan x="10" y="5914">interval_tree.js</tspan>
-<tspan x="10" y="5930">258.  2017-04-21 14:21:29 +0000     6201 bytes  lighthouse-core/third_party/traceviewer-js/base/\</tspan>
+<tspan x="10" y="5930">258.  2017-04-21 14:22:49 +0000     6201 bytes  lighthouse-core/third_party/traceviewer-js/base/\</tspan>
 <tspan x="10" y="5946">iteration_helpers.js</tspan>
-<tspan x="10" y="5962">259.  2017-04-21 14:21:29 +0000     2376 bytes  lighthouse-core/third_party/traceviewer-js/base/\</tspan>
+<tspan x="10" y="5962">259.  2017-04-21 14:22:49 +0000     2376 bytes  lighthouse-core/third_party/traceviewer-js/base/\</tspan>
 <tspan x="10" y="5978">math.js</tspan>
-<tspan x="10" y="5994">260.  2017-04-21 14:21:29 +0000    14126 bytes  lighthouse-core/third_party/traceviewer-js/base/\</tspan>
+<tspan x="10" y="5994">260.  2017-04-21 14:22:49 +0000    14126 bytes  lighthouse-core/third_party/traceviewer-js/base/\</tspan>
 <tspan x="10" y="6010">multi_dimensional_view.js</tspan>
-<tspan x="10" y="6026">261.  2017-04-21 14:21:29 +0000     1762 bytes  lighthouse-core/third_party/traceviewer-js/base/\</tspan>
+<tspan x="10" y="6026">261.  2017-04-21 14:22:49 +0000     1762 bytes  lighthouse-core/third_party/traceviewer-js/base/\</tspan>
 <tspan x="10" y="6042">piecewise_linear_function.js</tspan>
-<tspan x="10" y="6058">262.  2017-04-21 14:21:29 +0000     4294 bytes  lighthouse-core/third_party/traceviewer-js/base/\</tspan>
+<tspan x="10" y="6058">262.  2017-04-21 14:22:49 +0000     4294 bytes  lighthouse-core/third_party/traceviewer-js/base/\</tspan>
 <tspan x="10" y="6074">quad.js</tspan>
-<tspan x="10" y="6090">263.  2017-04-21 14:21:29 +0000     4060 bytes  lighthouse-core/third_party/traceviewer-js/base/\</tspan>
+<tspan x="10" y="6090">263.  2017-04-21 14:22:49 +0000     4060 bytes  lighthouse-core/third_party/traceviewer-js/base/\</tspan>
 <tspan x="10" y="6106">raf.js</tspan>
-<tspan x="10" y="6122">264.  2017-04-21 14:21:29 +0000     4027 bytes  lighthouse-core/third_party/traceviewer-js/base/\</tspan>
+<tspan x="10" y="6122">264.  2017-04-21 14:22:49 +0000     4027 bytes  lighthouse-core/third_party/traceviewer-js/base/\</tspan>
 <tspan x="10" y="6138">range.js</tspan>
-<tspan x="10" y="6154">265.  2017-04-21 14:21:29 +0000     2340 bytes  lighthouse-core/third_party/traceviewer-js/base/\</tspan>
+<tspan x="10" y="6154">265.  2017-04-21 14:22:49 +0000     2340 bytes  lighthouse-core/third_party/traceviewer-js/base/\</tspan>
 <tspan x="10" y="6170">range_utils.js</tspan>
-<tspan x="10" y="6186">266.  2017-04-21 14:21:29 +0000     2243 bytes  lighthouse-core/third_party/traceviewer-js/base/\</tspan>
+<tspan x="10" y="6186">266.  2017-04-21 14:22:49 +0000     2243 bytes  lighthouse-core/third_party/traceviewer-js/base/\</tspan>
 <tspan x="10" y="6202">rect.js</tspan>
-<tspan x="10" y="6218">267.  2017-04-21 14:21:29 +0000     2941 bytes  lighthouse-core/third_party/traceviewer-js/base/\</tspan>
+<tspan x="10" y="6218">267.  2017-04-21 14:22:49 +0000     2941 bytes  lighthouse-core/third_party/traceviewer-js/base/\</tspan>
 <tspan x="10" y="6234">running_statistics.js</tspan>
-<tspan x="10" y="6250">268.  2017-04-21 14:21:29 +0000     1511 bytes  lighthouse-core/third_party/traceviewer-js/base/\</tspan>
+<tspan x="10" y="6250">268.  2017-04-21 14:22:49 +0000     1511 bytes  lighthouse-core/third_party/traceviewer-js/base/\</tspan>
 <tspan x="10" y="6266">sinebow_color_generator.js</tspan>
-<tspan x="10" y="6282">269.  2017-04-21 14:21:29 +0000     3776 bytes  lighthouse-core/third_party/traceviewer-js/base/\</tspan>
+<tspan x="10" y="6282">269.  2017-04-21 14:22:49 +0000     3776 bytes  lighthouse-core/third_party/traceviewer-js/base/\</tspan>
 <tspan x="10" y="6298">sorted_array_utils.js</tspan>
-<tspan x="10" y="6314">270.  2017-04-21 14:21:29 +0000    10876 bytes  lighthouse-core/third_party/traceviewer-js/base/\</tspan>
+<tspan x="10" y="6314">270.  2017-04-21 14:22:49 +0000    10876 bytes  lighthouse-core/third_party/traceviewer-js/base/\</tspan>
 <tspan x="10" y="6330">statistics.js</tspan>
-<tspan x="10" y="6346">271.  2017-04-21 14:21:29 +0000     2253 bytes  lighthouse-core/third_party/traceviewer-js/base/\</tspan>
+<tspan x="10" y="6346">271.  2017-04-21 14:22:49 +0000     2253 bytes  lighthouse-core/third_party/traceviewer-js/base/\</tspan>
 <tspan x="10" y="6362">task.js</tspan>
-<tspan x="10" y="6378">272.  2017-04-21 14:21:29 +0000      599 bytes  lighthouse-core/third_party/traceviewer-js/base/\</tspan>
+<tspan x="10" y="6378">272.  2017-04-21 14:22:49 +0000      599 bytes  lighthouse-core/third_party/traceviewer-js/base/\</tspan>
 <tspan x="10" y="6394">time_display_modes.js</tspan>
-<tspan x="10" y="6410">273.  2017-04-21 14:21:29 +0000     1980 bytes  lighthouse-core/third_party/traceviewer-js/base/\</tspan>
+<tspan x="10" y="6410">273.  2017-04-21 14:22:49 +0000     1980 bytes  lighthouse-core/third_party/traceviewer-js/base/\</tspan>
 <tspan x="10" y="6426">timing.js</tspan>
-<tspan x="10" y="6442">274.  2017-04-21 14:21:29 +0000     6821 bytes  lighthouse-core/third_party/traceviewer-js/base/\</tspan>
+<tspan x="10" y="6442">274.  2017-04-21 14:22:49 +0000     6821 bytes  lighthouse-core/third_party/traceviewer-js/base/\</tspan>
 <tspan x="10" y="6458">unit.js</tspan>
-<tspan x="10" y="6474">275.  2017-04-21 14:21:29 +0000     1208 bytes  lighthouse-core/third_party/traceviewer-js/base/\</tspan>
+<tspan x="10" y="6474">275.  2017-04-21 14:22:49 +0000     1208 bytes  lighthouse-core/third_party/traceviewer-js/base/\</tspan>
 <tspan x="10" y="6490">unit_scale.js</tspan>
-<tspan x="10" y="6506">276.  2017-04-21 14:21:29 +0000     2018 bytes  lighthouse-core/third_party/traceviewer-js/base/\</tspan>
+<tspan x="10" y="6506">276.  2017-04-21 14:22:49 +0000     2018 bytes  lighthouse-core/third_party/traceviewer-js/base/\</tspan>
 <tspan x="10" y="6522">utils.js</tspan>
-<tspan x="10" y="6538">277.  2017-04-21 14:21:29 +0000      565 bytes  lighthouse-core/third_party/traceviewer-js/core/\</tspan>
+<tspan x="10" y="6538">277.  2017-04-21 14:22:49 +0000      565 bytes  lighthouse-core/third_party/traceviewer-js/core/\</tspan>
 <tspan x="10" y="6554">auditor.js</tspan>
-<tspan x="10" y="6570">278.  2017-04-21 14:21:29 +0000     1784 bytes  lighthouse-core/third_party/traceviewer-js/core/\</tspan>
+<tspan x="10" y="6570">278.  2017-04-21 14:22:49 +0000     1784 bytes  lighthouse-core/third_party/traceviewer-js/core/\</tspan>
 <tspan x="10" y="6586">filter.js</tspan>
-<tspan x="10" y="6602">279.  2017-04-21 14:21:29 +0000    12346 bytes  lighthouse-core/third_party/traceviewer-js/extra\</tspan>
+<tspan x="10" y="6602">279.  2017-04-21 14:22:49 +0000    12346 bytes  lighthouse-core/third_party/traceviewer-js/extra\</tspan>
 <tspan x="10" y="6618">s/chrome/cc/input_latency_async_slice.js</tspan>
-<tspan x="10" y="6634">280.  2017-04-21 14:21:29 +0000     4406 bytes  lighthouse-core/third_party/traceviewer-js/extra\</tspan>
+<tspan x="10" y="6634">280.  2017-04-21 14:22:49 +0000     4406 bytes  lighthouse-core/third_party/traceviewer-js/extra\</tspan>
 <tspan x="10" y="6650">s/chrome/chrome_user_friendly_category_driver.js</tspan>
-<tspan x="10" y="6666">281.  2017-04-21 14:21:29 +0000     2139 bytes  lighthouse-core/third_party/traceviewer-js/extra\</tspan>
+<tspan x="10" y="6666">281.  2017-04-21 14:22:49 +0000     2139 bytes  lighthouse-core/third_party/traceviewer-js/extra\</tspan>
 <tspan x="10" y="6682">s/importer/trace_code_entry.js</tspan>
-<tspan x="10" y="6698">282.  2017-04-21 14:21:29 +0000     2342 bytes  lighthouse-core/third_party/traceviewer-js/extra\</tspan>
+<tspan x="10" y="6698">282.  2017-04-21 14:22:49 +0000     2342 bytes  lighthouse-core/third_party/traceviewer-js/extra\</tspan>
 <tspan x="10" y="6714">s/importer/trace_code_map.js</tspan>
-<tspan x="10" y="6730">283.  2017-04-21 14:21:29 +0000    65915 bytes  lighthouse-core/third_party/traceviewer-js/extra\</tspan>
+<tspan x="10" y="6730">283.  2017-04-21 14:22:49 +0000    65915 bytes  lighthouse-core/third_party/traceviewer-js/extra\</tspan>
 <tspan x="10" y="6746">s/importer/trace_event_importer.js</tspan>
-<tspan x="10" y="6762">284.  2017-04-21 14:21:29 +0000     4771 bytes  lighthouse-core/third_party/traceviewer-js/extra\</tspan>
+<tspan x="10" y="6762">284.  2017-04-21 14:22:49 +0000     4771 bytes  lighthouse-core/third_party/traceviewer-js/extra\</tspan>
 <tspan x="10" y="6778">s/importer/v8/codemap.js</tspan>
-<tspan x="10" y="6794">285.  2017-04-21 14:21:29 +0000     3111 bytes  lighthouse-core/third_party/traceviewer-js/extra\</tspan>
+<tspan x="10" y="6794">285.  2017-04-21 14:22:49 +0000     3111 bytes  lighthouse-core/third_party/traceviewer-js/extra\</tspan>
 <tspan x="10" y="6810">s/importer/v8/splaytree.js</tspan>
-<tspan x="10" y="6826">286.  2017-04-21 14:21:29 +0000       88 bytes  lighthouse-core/third_party/traceviewer-js/extra\</tspan>
+<tspan x="10" y="6826">286.  2017-04-21 14:22:49 +0000       88 bytes  lighthouse-core/third_party/traceviewer-js/extra\</tspan>
 <tspan x="10" y="6842">s/lean_config.js</tspan>
-<tspan x="10" y="6858">287.  2017-04-21 14:21:29 +0000     3715 bytes  lighthouse-core/third_party/traceviewer-js/impor\</tspan>
+<tspan x="10" y="6858">287.  2017-04-21 14:22:49 +0000     3715 bytes  lighthouse-core/third_party/traceviewer-js/impor\</tspan>
 <tspan x="10" y="6874">ter/context_processor.js</tspan>
-<tspan x="10" y="6890">288.  2017-04-21 14:21:29 +0000      582 bytes  lighthouse-core/third_party/traceviewer-js/impor\</tspan>
+<tspan x="10" y="6890">288.  2017-04-21 14:22:49 +0000      582 bytes  lighthouse-core/third_party/traceviewer-js/impor\</tspan>
 <tspan x="10" y="6906">ter/empty_importer.js</tspan>
-<tspan x="10" y="6922">289.  2017-04-21 14:21:29 +0000    21817 bytes  lighthouse-core/third_party/traceviewer-js/impor\</tspan>
+<tspan x="10" y="6922">289.  2017-04-21 14:22:49 +0000    21817 bytes  lighthouse-core/third_party/traceviewer-js/impor\</tspan>
 <tspan x="10" y="6938">ter/find_input_expectations.js</tspan>
-<tspan x="10" y="6954">290.  2017-04-21 14:21:29 +0000     1094 bytes  lighthouse-core/third_party/traceviewer-js/impor\</tspan>
+<tspan x="10" y="6954">290.  2017-04-21 14:22:49 +0000     1094 bytes  lighthouse-core/third_party/traceviewer-js/impor\</tspan>
 <tspan x="10" y="6970">ter/find_load_expectations.js</tspan>
-<tspan x="10" y="6986">291.  2017-04-21 14:21:29 +0000     1842 bytes  lighthouse-core/third_party/traceviewer-js/impor\</tspan>
+<tspan x="10" y="6986">291.  2017-04-21 14:22:49 +0000     1842 bytes  lighthouse-core/third_party/traceviewer-js/impor\</tspan>
 <tspan x="10" y="7002">ter/find_startup_expectations.js</tspan>
-<tspan x="10" y="7018">292.  2017-04-21 14:21:29 +0000     8319 bytes  lighthouse-core/third_party/traceviewer-js/impor\</tspan>
+<tspan x="10" y="7018">292.  2017-04-21 14:22:49 +0000     8319 bytes  lighthouse-core/third_party/traceviewer-js/impor\</tspan>
 <tspan x="10" y="7034">ter/import.js</tspan>
-<tspan x="10" y="7050">293.  2017-04-21 14:21:29 +0000      870 bytes  lighthouse-core/third_party/traceviewer-js/impor\</tspan>
+<tspan x="10" y="7050">293.  2017-04-21 14:22:49 +0000      870 bytes  lighthouse-core/third_party/traceviewer-js/impor\</tspan>
 <tspan x="10" y="7066">ter/importer.js</tspan>
-<tspan x="10" y="7082">294.  2017-04-21 14:21:29 +0000     2881 bytes  lighthouse-core/third_party/traceviewer-js/impor\</tspan>
+<tspan x="10" y="7082">294.  2017-04-21 14:22:49 +0000     2881 bytes  lighthouse-core/third_party/traceviewer-js/impor\</tspan>
 <tspan x="10" y="7098">ter/proto_expectation.js</tspan>
-<tspan x="10" y="7114">295.  2017-04-21 14:21:29 +0000     5969 bytes  lighthouse-core/third_party/traceviewer-js/impor\</tspan>
+<tspan x="10" y="7114">295.  2017-04-21 14:22:49 +0000     5969 bytes  lighthouse-core/third_party/traceviewer-js/impor\</tspan>
 <tspan x="10" y="7130">ter/user_model_builder.js</tspan>
-<tspan x="10" y="7146">296.  2017-04-21 14:21:29 +0000      144 bytes  lighthouse-core/third_party/traceviewer-js/index\</tspan>
+<tspan x="10" y="7146">296.  2017-04-21 14:22:49 +0000      144 bytes  lighthouse-core/third_party/traceviewer-js/index\</tspan>
 <tspan x="10" y="7162">.js</tspan>
-<tspan x="10" y="7178">297.  2017-04-21 14:21:29 +0000      625 bytes  lighthouse-core/third_party/traceviewer-js/metri\</tspan>
+<tspan x="10" y="7178">297.  2017-04-21 14:22:49 +0000      625 bytes  lighthouse-core/third_party/traceviewer-js/metri\</tspan>
 <tspan x="10" y="7194">cs/all_metrics.js</tspan>
-<tspan x="10" y="7210">298.  2017-04-21 14:21:29 +0000     3978 bytes  lighthouse-core/third_party/traceviewer-js/metri\</tspan>
+<tspan x="10" y="7210">298.  2017-04-21 14:22:49 +0000     3978 bytes  lighthouse-core/third_party/traceviewer-js/metri\</tspan>
 <tspan x="10" y="7226">cs/blink/gc_metric.js</tspan>
-<tspan x="10" y="7242">299.  2017-04-21 14:21:29 +0000     2692 bytes  lighthouse-core/third_party/traceviewer-js/metri\</tspan>
+<tspan x="10" y="7242">299.  2017-04-21 14:22:49 +0000     2692 bytes  lighthouse-core/third_party/traceviewer-js/metri\</tspan>
 <tspan x="10" y="7258">cs/cpu_process_metric.js</tspan>
-<tspan x="10" y="7274">300.  2017-04-21 14:21:29 +0000      690 bytes  lighthouse-core/third_party/traceviewer-js/metri\</tspan>
+<tspan x="10" y="7274">300.  2017-04-21 14:22:49 +0000      690 bytes  lighthouse-core/third_party/traceviewer-js/metri\</tspan>
 <tspan x="10" y="7290">cs/metric_registry.js</tspan>
-<tspan x="10" y="7306">301.  2017-04-21 14:21:29 +0000      900 bytes  lighthouse-core/third_party/traceviewer-js/metri\</tspan>
+<tspan x="10" y="7306">301.  2017-04-21 14:22:49 +0000      900 bytes  lighthouse-core/third_party/traceviewer-js/metri\</tspan>
 <tspan x="10" y="7322">cs/sample_metric.js</tspan>
-<tspan x="10" y="7338">302.  2017-04-21 14:21:29 +0000     1213 bytes  lighthouse-core/third_party/traceviewer-js/metri\</tspan>
+<tspan x="10" y="7338">302.  2017-04-21 14:22:49 +0000     1213 bytes  lighthouse-core/third_party/traceviewer-js/metri\</tspan>
 <tspan x="10" y="7354">cs/system_health/clock_sync_latency_metric.js</tspan>
-<tspan x="10" y="7370">303.  2017-04-21 14:21:29 +0000     1703 bytes  lighthouse-core/third_party/traceviewer-js/metri\</tspan>
+<tspan x="10" y="7370">303.  2017-04-21 14:22:49 +0000     1703 bytes  lighthouse-core/third_party/traceviewer-js/metri\</tspan>
 <tspan x="10" y="7386">cs/system_health/cpu_time_metric.js</tspan>
-<tspan x="10" y="7402">304.  2017-04-21 14:21:29 +0000     1692 bytes  lighthouse-core/third_party/traceviewer-js/metri\</tspan>
+<tspan x="10" y="7402">304.  2017-04-21 14:22:49 +0000     1692 bytes  lighthouse-core/third_party/traceviewer-js/metri\</tspan>
 <tspan x="10" y="7418">cs/system_health/hazard_metric.js</tspan>
-<tspan x="10" y="7434">305.  2017-04-21 14:21:29 +0000    10577 bytes  lighthouse-core/third_party/traceviewer-js/metri\</tspan>
+<tspan x="10" y="7434">305.  2017-04-21 14:22:49 +0000    10577 bytes  lighthouse-core/third_party/traceviewer-js/metri\</tspan>
 <tspan x="10" y="7450">cs/system_health/loading_metric.js</tspan>
-<tspan x="10" y="7466">306.  2017-04-21 14:21:29 +0000     2358 bytes  lighthouse-core/third_party/traceviewer-js/metri\</tspan>
+<tspan x="10" y="7466">306.  2017-04-21 14:22:49 +0000     2358 bytes  lighthouse-core/third_party/traceviewer-js/metri\</tspan>
 <tspan x="10" y="7482">cs/system_health/long_tasks_metric.js</tspan>
-<tspan x="10" y="7498">307.  2017-04-21 14:21:29 +0000    20794 bytes  lighthouse-core/third_party/traceviewer-js/metri\</tspan>
+<tspan x="10" y="7498">307.  2017-04-21 14:22:49 +0000    20794 bytes  lighthouse-core/third_party/traceviewer-js/metri\</tspan>
 <tspan x="10" y="7514">cs/system_health/memory_metric.js</tspan>
-<tspan x="10" y="7530">308.  2017-04-21 14:21:29 +0000     5555 bytes  lighthouse-core/third_party/traceviewer-js/metri\</tspan>
+<tspan x="10" y="7530">308.  2017-04-21 14:22:49 +0000     5555 bytes  lighthouse-core/third_party/traceviewer-js/metri\</tspan>
 <tspan x="10" y="7546">cs/system_health/power_metric.js</tspan>
-<tspan x="10" y="7562">309.  2017-04-21 14:21:29 +0000     3844 bytes  lighthouse-core/third_party/traceviewer-js/metri\</tspan>
+<tspan x="10" y="7562">309.  2017-04-21 14:22:49 +0000     3844 bytes  lighthouse-core/third_party/traceviewer-js/metri\</tspan>
 <tspan x="10" y="7578">cs/system_health/responsiveness_metric.js</tspan>
-<tspan x="10" y="7594">310.  2017-04-21 14:21:29 +0000      564 bytes  lighthouse-core/third_party/traceviewer-js/metri\</tspan>
+<tspan x="10" y="7594">310.  2017-04-21 14:22:49 +0000      564 bytes  lighthouse-core/third_party/traceviewer-js/metri\</tspan>
 <tspan x="10" y="7610">cs/system_health/system_health_metrics.js</tspan>
-<tspan x="10" y="7626">311.  2017-04-21 14:21:29 +0000      583 bytes  lighthouse-core/third_party/traceviewer-js/metri\</tspan>
+<tspan x="10" y="7626">311.  2017-04-21 14:22:49 +0000      583 bytes  lighthouse-core/third_party/traceviewer-js/metri\</tspan>
 <tspan x="10" y="7642">cs/system_health/utils.js</tspan>
-<tspan x="10" y="7658">312.  2017-04-21 14:21:29 +0000     1509 bytes  lighthouse-core/third_party/traceviewer-js/metri\</tspan>
+<tspan x="10" y="7658">312.  2017-04-21 14:22:49 +0000     1509 bytes  lighthouse-core/third_party/traceviewer-js/metri\</tspan>
 <tspan x="10" y="7674">cs/system_health/webview_startup_metric.js</tspan>
-<tspan x="10" y="7690">313.  2017-04-21 14:21:29 +0000     5618 bytes  lighthouse-core/third_party/traceviewer-js/metri\</tspan>
+<tspan x="10" y="7690">313.  2017-04-21 14:22:49 +0000     5618 bytes  lighthouse-core/third_party/traceviewer-js/metri\</tspan>
 <tspan x="10" y="7706">cs/tracing_metric.js</tspan>
-<tspan x="10" y="7722">314.  2017-04-21 14:21:29 +0000     8218 bytes  lighthouse-core/third_party/traceviewer-js/metri\</tspan>
+<tspan x="10" y="7722">314.  2017-04-21 14:22:49 +0000     8218 bytes  lighthouse-core/third_party/traceviewer-js/metri\</tspan>
 <tspan x="10" y="7738">cs/v8/execution_metric.js</tspan>
-<tspan x="10" y="7754">315.  2017-04-21 14:21:29 +0000     7030 bytes  lighthouse-core/third_party/traceviewer-js/metri\</tspan>
+<tspan x="10" y="7754">315.  2017-04-21 14:22:49 +0000     7030 bytes  lighthouse-core/third_party/traceviewer-js/metri\</tspan>
 <tspan x="10" y="7770">cs/v8/gc_metric.js</tspan>
-<tspan x="10" y="7786">316.  2017-04-21 14:21:29 +0000     6376 bytes  lighthouse-core/third_party/traceviewer-js/metri\</tspan>
+<tspan x="10" y="7786">316.  2017-04-21 14:22:49 +0000     6376 bytes  lighthouse-core/third_party/traceviewer-js/metri\</tspan>
 <tspan x="10" y="7802">cs/v8/utils.js</tspan>
-<tspan x="10" y="7818">317.  2017-04-21 14:21:29 +0000      543 bytes  lighthouse-core/third_party/traceviewer-js/metri\</tspan>
+<tspan x="10" y="7818">317.  2017-04-21 14:22:49 +0000      543 bytes  lighthouse-core/third_party/traceviewer-js/metri\</tspan>
 <tspan x="10" y="7834">cs/v8/v8_metrics.js</tspan>
-<tspan x="10" y="7850">318.  2017-04-21 14:21:29 +0000      800 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
+<tspan x="10" y="7850">318.  2017-04-21 14:22:49 +0000      800 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
 <tspan x="10" y="7866">/alert.js</tspan>
-<tspan x="10" y="7882">319.  2017-04-21 14:21:29 +0000     1318 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
+<tspan x="10" y="7882">319.  2017-04-21 14:22:49 +0000     1318 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
 <tspan x="10" y="7898">/annotation.js</tspan>
-<tspan x="10" y="7914">320.  2017-04-21 14:21:29 +0000     2549 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
+<tspan x="10" y="7914">320.  2017-04-21 14:22:49 +0000     2549 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
 <tspan x="10" y="7930">/async_slice.js</tspan>
-<tspan x="10" y="7946">321.  2017-04-21 14:21:29 +0000     2490 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
+<tspan x="10" y="7946">321.  2017-04-21 14:22:49 +0000     2490 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
 <tspan x="10" y="7962">/async_slice_group.js</tspan>
-<tspan x="10" y="7978">322.  2017-04-21 14:21:29 +0000     6222 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
+<tspan x="10" y="7978">322.  2017-04-21 14:22:49 +0000     6222 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
 <tspan x="10" y="7994">/clock_sync_manager.js</tspan>
-<tspan x="10" y="8010">323.  2017-04-21 14:21:29 +0000     1006 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
+<tspan x="10" y="8010">323.  2017-04-21 14:22:49 +0000     1006 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
 <tspan x="10" y="8026">/comment_box_annotation.js</tspan>
-<tspan x="10" y="8042">324.  2017-04-21 14:21:29 +0000      385 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
+<tspan x="10" y="8042">324.  2017-04-21 14:22:49 +0000      385 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
 <tspan x="10" y="8058">/compound_event_selection_state.js</tspan>
-<tspan x="10" y="8074">325.  2017-04-21 14:21:29 +0000      159 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
+<tspan x="10" y="8074">325.  2017-04-21 14:22:49 +0000      159 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
 <tspan x="10" y="8090">/constants.js</tspan>
-<tspan x="10" y="8106">326.  2017-04-21 14:21:29 +0000     1457 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
+<tspan x="10" y="8106">326.  2017-04-21 14:22:49 +0000     1457 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
 <tspan x="10" y="8122">/container_memory_dump.js</tspan>
-<tspan x="10" y="8138">327.  2017-04-21 14:21:29 +0000     2412 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
+<tspan x="10" y="8138">327.  2017-04-21 14:22:49 +0000     2412 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
 <tspan x="10" y="8154">/counter.js</tspan>
-<tspan x="10" y="8170">328.  2017-04-21 14:21:29 +0000     1481 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
+<tspan x="10" y="8170">328.  2017-04-21 14:22:49 +0000     1481 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
 <tspan x="10" y="8186">/counter_sample.js</tspan>
-<tspan x="10" y="8202">329.  2017-04-21 14:21:29 +0000     1626 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
+<tspan x="10" y="8202">329.  2017-04-21 14:22:49 +0000     1626 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
 <tspan x="10" y="8218">/counter_series.js</tspan>
-<tspan x="10" y="8234">330.  2017-04-21 14:21:29 +0000     4581 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
+<tspan x="10" y="8234">330.  2017-04-21 14:22:49 +0000     4581 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
 <tspan x="10" y="8250">/cpu.js</tspan>
-<tspan x="10" y="8266">331.  2017-04-21 14:21:29 +0000      838 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
+<tspan x="10" y="8266">331.  2017-04-21 14:22:49 +0000      838 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
 <tspan x="10" y="8282">/cpu_slice.js</tspan>
-<tspan x="10" y="8298">332.  2017-04-21 14:21:29 +0000     1403 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
+<tspan x="10" y="8298">332.  2017-04-21 14:22:49 +0000     1403 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
 <tspan x="10" y="8314">/device.js</tspan>
-<tspan x="10" y="8330">333.  2017-04-21 14:21:29 +0000      967 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
+<tspan x="10" y="8330">333.  2017-04-21 14:22:49 +0000      967 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
 <tspan x="10" y="8346">/event.js</tspan>
-<tspan x="10" y="8362">334.  2017-04-21 14:21:29 +0000     1258 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
+<tspan x="10" y="8362">334.  2017-04-21 14:22:49 +0000     1258 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
 <tspan x="10" y="8378">/event_container.js</tspan>
-<tspan x="10" y="8394">335.  2017-04-21 14:21:29 +0000      349 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
+<tspan x="10" y="8394">335.  2017-04-21 14:22:49 +0000      349 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
 <tspan x="10" y="8410">/event_info.js</tspan>
-<tspan x="10" y="8426">336.  2017-04-21 14:21:29 +0000     1984 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
+<tspan x="10" y="8426">336.  2017-04-21 14:22:49 +0000     1984 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
 <tspan x="10" y="8442">/event_registry.js</tspan>
-<tspan x="10" y="8458">337.  2017-04-21 14:21:29 +0000     4628 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
+<tspan x="10" y="8458">337.  2017-04-21 14:22:49 +0000     4628 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
 <tspan x="10" y="8474">/event_set.js</tspan>
-<tspan x="10" y="8490">338.  2017-04-21 14:21:29 +0000      805 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
+<tspan x="10" y="8490">338.  2017-04-21 14:22:49 +0000      805 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
 <tspan x="10" y="8506">/flow_event.js</tspan>
-<tspan x="10" y="8522">339.  2017-04-21 14:21:29 +0000     1464 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
+<tspan x="10" y="8522">339.  2017-04-21 14:22:49 +0000     1464 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
 <tspan x="10" y="8538">/frame.js</tspan>
-<tspan x="10" y="8554">340.  2017-04-21 14:21:29 +0000    12994 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
+<tspan x="10" y="8554">340.  2017-04-21 14:22:49 +0000    12994 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
 <tspan x="10" y="8570">/global_memory_dump.js</tspan>
-<tspan x="10" y="8586">341.  2017-04-21 14:21:29 +0000      673 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
+<tspan x="10" y="8586">341.  2017-04-21 14:22:49 +0000      673 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
 <tspan x="10" y="8602">/heap_dump.js</tspan>
-<tspan x="10" y="8618">342.  2017-04-21 14:21:29 +0000     2965 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
+<tspan x="10" y="8618">342.  2017-04-21 14:22:49 +0000     2965 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
 <tspan x="10" y="8634">/helpers/chrome_browser_helper.js</tspan>
-<tspan x="10" y="8650">343.  2017-04-21 14:21:29 +0000      785 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
+<tspan x="10" y="8650">343.  2017-04-21 14:22:49 +0000      785 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
 <tspan x="10" y="8666">/helpers/chrome_gpu_helper.js</tspan>
-<tspan x="10" y="8682">344.  2017-04-21 14:21:29 +0000     2063 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
+<tspan x="10" y="8682">344.  2017-04-21 14:22:49 +0000     2063 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
 <tspan x="10" y="8698">/helpers/chrome_model_helper.js</tspan>
-<tspan x="10" y="8714">345.  2017-04-21 14:21:29 +0000     1780 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
+<tspan x="10" y="8714">345.  2017-04-21 14:22:49 +0000     1780 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
 <tspan x="10" y="8730">/helpers/chrome_process_helper.js</tspan>
-<tspan x="10" y="8746">346.  2017-04-21 14:21:29 +0000     3177 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
+<tspan x="10" y="8746">346.  2017-04-21 14:22:49 +0000     3177 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
 <tspan x="10" y="8762">/helpers/chrome_renderer_helper.js</tspan>
-<tspan x="10" y="8778">347.  2017-04-21 14:21:29 +0000     1306 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
+<tspan x="10" y="8778">347.  2017-04-21 14:22:49 +0000     1306 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
 <tspan x="10" y="8794">/instant_event.js</tspan>
-<tspan x="10" y="8810">348.  2017-04-21 14:21:29 +0000     1911 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
+<tspan x="10" y="8810">348.  2017-04-21 14:22:49 +0000     1911 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
 <tspan x="10" y="8826">/ir_coverage.js</tspan>
-<tspan x="10" y="8842">349.  2017-04-21 14:21:29 +0000     1999 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
+<tspan x="10" y="8842">349.  2017-04-21 14:22:49 +0000     1999 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
 <tspan x="10" y="8858">/kernel.js</tspan>
-<tspan x="10" y="8874">350.  2017-04-21 14:21:29 +0000     2562 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
+<tspan x="10" y="8874">350.  2017-04-21 14:22:49 +0000     2562 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
 <tspan x="10" y="8890">/location.js</tspan>
-<tspan x="10" y="8906">351.  2017-04-21 14:21:29 +0000     3537 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
+<tspan x="10" y="8906">351.  2017-04-21 14:22:49 +0000     3537 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
 <tspan x="10" y="8922">/memory_allocator_dump.js</tspan>
-<tspan x="10" y="8938">352.  2017-04-21 14:21:29 +0000    12287 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
+<tspan x="10" y="8938">352.  2017-04-21 14:22:49 +0000    12287 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
 <tspan x="10" y="8954">/model.js</tspan>
-<tspan x="10" y="8970">353.  2017-04-21 14:21:29 +0000      681 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
+<tspan x="10" y="8970">353.  2017-04-21 14:22:49 +0000      681 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
 <tspan x="10" y="8986">/model_indices.js</tspan>
-<tspan x="10" y="9002">354.  2017-04-21 14:21:29 +0000     1705 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
+<tspan x="10" y="9002">354.  2017-04-21 14:22:49 +0000     1705 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
 <tspan x="10" y="9018">/model_stats.js</tspan>
-<tspan x="10" y="9034">355.  2017-04-21 14:21:29 +0000     5455 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
+<tspan x="10" y="9034">355.  2017-04-21 14:22:49 +0000     5455 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
 <tspan x="10" y="9050">/object_collection.js</tspan>
-<tspan x="10" y="9066">356.  2017-04-21 14:21:29 +0000     3750 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
+<tspan x="10" y="9066">356.  2017-04-21 14:22:49 +0000     3750 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
 <tspan x="10" y="9082">/object_instance.js</tspan>
-<tspan x="10" y="9098">357.  2017-04-21 14:21:29 +0000      764 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
+<tspan x="10" y="9098">357.  2017-04-21 14:22:49 +0000      764 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
 <tspan x="10" y="9114">/object_snapshot.js</tspan>
-<tspan x="10" y="9130">358.  2017-04-21 14:21:29 +0000      727 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
+<tspan x="10" y="9130">358.  2017-04-21 14:22:49 +0000      727 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
 <tspan x="10" y="9146">/power_sample.js</tspan>
-<tspan x="10" y="9162">359.  2017-04-21 14:21:29 +0000     2114 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
+<tspan x="10" y="9162">359.  2017-04-21 14:22:49 +0000     2114 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
 <tspan x="10" y="9178">/power_series.js</tspan>
-<tspan x="10" y="9194">360.  2017-04-21 14:21:29 +0000     2830 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
+<tspan x="10" y="9194">360.  2017-04-21 14:22:49 +0000     2830 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
 <tspan x="10" y="9210">/process.js</tspan>
-<tspan x="10" y="9226">361.  2017-04-21 14:21:29 +0000     3522 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
+<tspan x="10" y="9226">361.  2017-04-21 14:22:49 +0000     3522 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
 <tspan x="10" y="9242">/process_base.js</tspan>
-<tspan x="10" y="9258">362.  2017-04-21 14:21:29 +0000     4719 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
+<tspan x="10" y="9258">362.  2017-04-21 14:22:49 +0000     4719 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
 <tspan x="10" y="9274">/process_memory_dump.js</tspan>
-<tspan x="10" y="9290">363.  2017-04-21 14:21:29 +0000     1074 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
+<tspan x="10" y="9290">363.  2017-04-21 14:22:49 +0000     1074 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
 <tspan x="10" y="9306">/rect_annotation.js</tspan>
-<tspan x="10" y="9322">364.  2017-04-21 14:21:29 +0000      822 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
+<tspan x="10" y="9322">364.  2017-04-21 14:22:49 +0000      822 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
 <tspan x="10" y="9338">/sample.js</tspan>
-<tspan x="10" y="9354">365.  2017-04-21 14:21:29 +0000      429 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
+<tspan x="10" y="9354">365.  2017-04-21 14:22:49 +0000      429 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
 <tspan x="10" y="9370">/scoped_id.js</tspan>
-<tspan x="10" y="9386">366.  2017-04-21 14:21:29 +0000      638 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
+<tspan x="10" y="9386">366.  2017-04-21 14:22:49 +0000      638 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
 <tspan x="10" y="9402">/selectable_item.js</tspan>
-<tspan x="10" y="9418">367.  2017-04-21 14:21:29 +0000     1083 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
+<tspan x="10" y="9418">367.  2017-04-21 14:22:49 +0000     1083 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
 <tspan x="10" y="9434">/selection_state.js</tspan>
-<tspan x="10" y="9450">368.  2017-04-21 14:21:29 +0000     3792 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
+<tspan x="10" y="9450">368.  2017-04-21 14:22:49 +0000     3792 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
 <tspan x="10" y="9466">/slice.js</tspan>
-<tspan x="10" y="9482">369.  2017-04-21 14:21:29 +0000    11077 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
+<tspan x="10" y="9482">369.  2017-04-21 14:22:49 +0000    11077 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
 <tspan x="10" y="9498">/slice_group.js</tspan>
-<tspan x="10" y="9514">370.  2017-04-21 14:21:29 +0000      761 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
+<tspan x="10" y="9514">370.  2017-04-21 14:22:49 +0000      761 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
 <tspan x="10" y="9530">/source_info/js_source_info.js</tspan>
-<tspan x="10" y="9546">371.  2017-04-21 14:21:29 +0000      657 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
+<tspan x="10" y="9546">371.  2017-04-21 14:22:49 +0000      657 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
 <tspan x="10" y="9562">/source_info/source_info.js</tspan>
-<tspan x="10" y="9578">372.  2017-04-21 14:21:29 +0000     1591 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
+<tspan x="10" y="9578">372.  2017-04-21 14:22:49 +0000     1591 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
 <tspan x="10" y="9594">/stack_frame.js</tspan>
-<tspan x="10" y="9610">373.  2017-04-21 14:21:29 +0000     5840 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
+<tspan x="10" y="9610">373.  2017-04-21 14:22:49 +0000     5840 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
 <tspan x="10" y="9626">/thread.js</tspan>
-<tspan x="10" y="9642">374.  2017-04-21 14:21:29 +0000      819 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
+<tspan x="10" y="9642">374.  2017-04-21 14:22:49 +0000      819 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
 <tspan x="10" y="9658">/thread_slice.js</tspan>
-<tspan x="10" y="9674">375.  2017-04-21 14:21:29 +0000     3409 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
+<tspan x="10" y="9674">375.  2017-04-21 14:22:49 +0000     3409 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
 <tspan x="10" y="9690">/thread_time_slice.js</tspan>
-<tspan x="10" y="9706">376.  2017-04-21 14:21:29 +0000     4041 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
+<tspan x="10" y="9706">376.  2017-04-21 14:22:49 +0000     4041 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
 <tspan x="10" y="9722">/time_to_object_instance_map.js</tspan>
-<tspan x="10" y="9738">377.  2017-04-21 14:21:29 +0000      832 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
+<tspan x="10" y="9738">377.  2017-04-21 14:22:49 +0000      832 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
 <tspan x="10" y="9754">/timed_event.js</tspan>
-<tspan x="10" y="9770">378.  2017-04-21 14:21:29 +0000      887 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
+<tspan x="10" y="9770">378.  2017-04-21 14:22:49 +0000      887 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
 <tspan x="10" y="9786">/user_model/animation_expectation.js</tspan>
-<tspan x="10" y="9802">379.  2017-04-21 14:21:29 +0000      554 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
+<tspan x="10" y="9802">379.  2017-04-21 14:22:49 +0000      554 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
 <tspan x="10" y="9818">/user_model/idle_expectation.js</tspan>
-<tspan x="10" y="9834">380.  2017-04-21 14:21:29 +0000     1045 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
+<tspan x="10" y="9834">380.  2017-04-21 14:22:49 +0000     1045 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
 <tspan x="10" y="9850">/user_model/load_expectation.js</tspan>
-<tspan x="10" y="9866">381.  2017-04-21 14:21:29 +0000      650 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
+<tspan x="10" y="9866">381.  2017-04-21 14:22:49 +0000      650 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
 <tspan x="10" y="9882">/user_model/response_expectation.js</tspan>
-<tspan x="10" y="9898">382.  2017-04-21 14:21:29 +0000      539 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
+<tspan x="10" y="9898">382.  2017-04-21 14:22:49 +0000      539 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
 <tspan x="10" y="9914">/user_model/startup_expectation.js</tspan>
-<tspan x="10" y="9930">383.  2017-04-21 14:21:29 +0000     2833 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
+<tspan x="10" y="9930">383.  2017-04-21 14:22:49 +0000     2833 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
 <tspan x="10" y="9946">/user_model/user_expectation.js</tspan>
-<tspan x="10" y="9962">384.  2017-04-21 14:21:29 +0000      870 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
+<tspan x="10" y="9962">384.  2017-04-21 14:22:49 +0000      870 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
 <tspan x="10" y="9978">/user_model/user_model.js</tspan>
-<tspan x="10" y="9994">385.  2017-04-21 14:21:29 +0000     5945 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
+<tspan x="10" y="9994">385.  2017-04-21 14:22:49 +0000     5945 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
 <tspan x="10" y="10010">/vm_region.js</tspan>
-<tspan x="10" y="10026">386.  2017-04-21 14:21:29 +0000      755 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
+<tspan x="10" y="10026">386.  2017-04-21 14:22:49 +0000      755 bytes  lighthouse-core/third_party/traceviewer-js/model\</tspan>
 <tspan x="10" y="10042">/x_marker_annotation.js</tspan>
-<tspan x="10" y="10058">387.  2017-04-21 14:21:29 +0000      276 bytes  lighthouse-core/third_party/traceviewer-js/ui/an\</tspan>
+<tspan x="10" y="10058">387.  2017-04-21 14:22:49 +0000      276 bytes  lighthouse-core/third_party/traceviewer-js/ui/an\</tspan>
 <tspan x="10" y="10074">notations/annotation_view.js</tspan>
-<tspan x="10" y="10090">388.  2017-04-21 14:21:29 +0000     1710 bytes  lighthouse-core/third_party/traceviewer-js/ui/an\</tspan>
+<tspan x="10" y="10090">388.  2017-04-21 14:22:49 +0000     1710 bytes  lighthouse-core/third_party/traceviewer-js/ui/an\</tspan>
 <tspan x="10" y="10106">notations/comment_box_annotation_view.js</tspan>
-<tspan x="10" y="10122">389.  2017-04-21 14:21:29 +0000      861 bytes  lighthouse-core/third_party/traceviewer-js/ui/an\</tspan>
+<tspan x="10" y="10122">389.  2017-04-21 14:22:49 +0000      861 bytes  lighthouse-core/third_party/traceviewer-js/ui/an\</tspan>
 <tspan x="10" y="10138">notations/rect_annotation_view.js</tspan>
-<tspan x="10" y="10154">390.  2017-04-21 14:21:29 +0000      604 bytes  lighthouse-core/third_party/traceviewer-js/ui/an\</tspan>
+<tspan x="10" y="10154">390.  2017-04-21 14:22:49 +0000      604 bytes  lighthouse-core/third_party/traceviewer-js/ui/an\</tspan>
 <tspan x="10" y="10170">notations/x_marker_annotation_view.js</tspan>
-<tspan x="10" y="10186">391.  2017-04-21 14:21:29 +0000     4378 bytes  lighthouse-core/third_party/traceviewer-js/ui/ba\</tspan>
+<tspan x="10" y="10186">391.  2017-04-21 14:22:49 +0000     4378 bytes  lighthouse-core/third_party/traceviewer-js/ui/ba\</tspan>
 <tspan x="10" y="10202">se/overlay.js</tspan>
-<tspan x="10" y="10218">392.  2017-04-21 14:21:29 +0000     2069 bytes  lighthouse-core/third_party/traceviewer-js/ui/ba\</tspan>
+<tspan x="10" y="10218">392.  2017-04-21 14:22:49 +0000     2069 bytes  lighthouse-core/third_party/traceviewer-js/ui/ba\</tspan>
 <tspan x="10" y="10234">se/ui.js</tspan>
-<tspan x="10" y="10250">393.  2017-04-21 14:21:29 +0000     1508 bytes  lighthouse-core/third_party/traceviewer-js/ui/ba\</tspan>
+<tspan x="10" y="10250">393.  2017-04-21 14:22:49 +0000     1508 bytes  lighthouse-core/third_party/traceviewer-js/ui/ba\</tspan>
 <tspan x="10" y="10266">se/utils.js</tspan>
-<tspan x="10" y="10282">394.  2017-04-21 14:21:29 +0000     1533 bytes  lighthouse-core/third_party/traceviewer-js/value\</tspan>
+<tspan x="10" y="10282">394.  2017-04-21 14:22:49 +0000     1533 bytes  lighthouse-core/third_party/traceviewer-js/value\</tspan>
 <tspan x="10" y="10298">/diagnostics/breakdown.js</tspan>
-<tspan x="10" y="10314">395.  2017-04-21 14:21:29 +0000      958 bytes  lighthouse-core/third_party/traceviewer-js/value\</tspan>
+<tspan x="10" y="10314">395.  2017-04-21 14:22:49 +0000      958 bytes  lighthouse-core/third_party/traceviewer-js/value\</tspan>
 <tspan x="10" y="10330">/diagnostics/diagnostic.js</tspan>
-<tspan x="10" y="10346">396.  2017-04-21 14:21:29 +0000     1761 bytes  lighthouse-core/third_party/traceviewer-js/value\</tspan>
+<tspan x="10" y="10346">396.  2017-04-21 14:22:49 +0000     1761 bytes  lighthouse-core/third_party/traceviewer-js/value\</tspan>
 <tspan x="10" y="10362">/diagnostics/diagnostic_map.js</tspan>
-<tspan x="10" y="10378">397.  2017-04-21 14:21:29 +0000      335 bytes  lighthouse-core/third_party/traceviewer-js/value\</tspan>
+<tspan x="10" y="10378">397.  2017-04-21 14:22:49 +0000      335 bytes  lighthouse-core/third_party/traceviewer-js/value\</tspan>
 <tspan x="10" y="10394">/diagnostics/event_ref.js</tspan>
-<tspan x="10" y="10410">398.  2017-04-21 14:21:29 +0000      372 bytes  lighthouse-core/third_party/traceviewer-js/value\</tspan>
+<tspan x="10" y="10410">398.  2017-04-21 14:22:49 +0000      372 bytes  lighthouse-core/third_party/traceviewer-js/value\</tspan>
 <tspan x="10" y="10426">/diagnostics/generic.js</tspan>
-<tspan x="10" y="10442">399.  2017-04-21 14:21:29 +0000     3355 bytes  lighthouse-core/third_party/traceviewer-js/value\</tspan>
+<tspan x="10" y="10442">399.  2017-04-21 14:22:49 +0000     3355 bytes  lighthouse-core/third_party/traceviewer-js/value\</tspan>
 <tspan x="10" y="10458">/diagnostics/iteration_info.js</tspan>
-<tspan x="10" y="10474">400.  2017-04-21 14:21:29 +0000     2087 bytes  lighthouse-core/third_party/traceviewer-js/value\</tspan>
+<tspan x="10" y="10474">400.  2017-04-21 14:22:49 +0000     2087 bytes  lighthouse-core/third_party/traceviewer-js/value\</tspan>
 <tspan x="10" y="10490">/diagnostics/related_event_set.js</tspan>
-<tspan x="10" y="10506">401.  2017-04-21 14:21:29 +0000     2116 bytes  lighthouse-core/third_party/traceviewer-js/value\</tspan>
+<tspan x="10" y="10506">401.  2017-04-21 14:22:49 +0000     2116 bytes  lighthouse-core/third_party/traceviewer-js/value\</tspan>
 <tspan x="10" y="10522">/diagnostics/related_histogram_breakdown.js</tspan>
-<tspan x="10" y="10538">402.  2017-04-21 14:21:29 +0000     2018 bytes  lighthouse-core/third_party/traceviewer-js/value\</tspan>
+<tspan x="10" y="10538">402.  2017-04-21 14:22:49 +0000     2018 bytes  lighthouse-core/third_party/traceviewer-js/value\</tspan>
 <tspan x="10" y="10554">/diagnostics/related_value_map.js</tspan>
-<tspan x="10" y="10570">403.  2017-04-21 14:21:29 +0000     2081 bytes  lighthouse-core/third_party/traceviewer-js/value\</tspan>
+<tspan x="10" y="10570">403.  2017-04-21 14:22:49 +0000     2081 bytes  lighthouse-core/third_party/traceviewer-js/value\</tspan>
 <tspan x="10" y="10586">/diagnostics/related_value_set.js</tspan>
-<tspan x="10" y="10602">404.  2017-04-21 14:21:29 +0000      513 bytes  lighthouse-core/third_party/traceviewer-js/value\</tspan>
+<tspan x="10" y="10602">404.  2017-04-21 14:22:49 +0000      513 bytes  lighthouse-core/third_party/traceviewer-js/value\</tspan>
 <tspan x="10" y="10618">/diagnostics/scalar.js</tspan>
-<tspan x="10" y="10634">405.  2017-04-21 14:21:29 +0000      164 bytes  lighthouse-core/third_party/traceviewer-js/value\</tspan>
+<tspan x="10" y="10634">405.  2017-04-21 14:22:49 +0000      164 bytes  lighthouse-core/third_party/traceviewer-js/value\</tspan>
 <tspan x="10" y="10650">/diagnostics/value_ref.js</tspan>
-<tspan x="10" y="10666">406.  2017-04-21 14:21:29 +0000    16708 bytes  lighthouse-core/third_party/traceviewer-js/value\</tspan>
+<tspan x="10" y="10666">406.  2017-04-21 14:22:49 +0000    16708 bytes  lighthouse-core/third_party/traceviewer-js/value\</tspan>
 <tspan x="10" y="10682">/histogram.js</tspan>
-<tspan x="10" y="10698">407.  2017-04-21 14:21:29 +0000     1241 bytes  lighthouse-core/third_party/traceviewer-js/value\</tspan>
+<tspan x="10" y="10698">407.  2017-04-21 14:22:49 +0000     1241 bytes  lighthouse-core/third_party/traceviewer-js/value\</tspan>
 <tspan x="10" y="10714">/numeric.js</tspan>
-<tspan x="10" y="10730">408.  2017-04-21 14:21:29 +0000     3509 bytes  package.json</tspan>
-<tspan x="10" y="10746">409.  2017-04-21 14:21:29 +0000    15101 bytes  readme.md</tspan>
-<tspan x="10" y="10762">410.  2017-04-21 14:21:29 +0000       57 bytes  typings/main.d.ts</tspan>
-<tspan x="10" y="10778">411.  2017-04-21 14:21:29 +0000     2362 bytes  typings/main/ambient/assert/index.d.ts</tspan>
-<tspan x="10" y="10794">412.  2017-04-21 14:21:29 +0000    97962 bytes  yarn.lock</tspan>
+<tspan x="10" y="10730">408.  2017-04-21 14:22:49 +0000     3509 bytes  package.json</tspan>
+<tspan x="10" y="10746">409.  2017-04-21 14:22:49 +0000    15101 bytes  readme.md</tspan>
+<tspan x="10" y="10762">410.  2017-04-21 14:22:49 +0000       57 bytes  typings/main.d.ts</tspan>
+<tspan x="10" y="10778">411.  2017-04-21 14:22:49 +0000     2362 bytes  typings/main/ambient/assert/index.d.ts</tspan>
+<tspan x="10" y="10794">412.  2017-04-21 14:22:49 +0000    97962 bytes  yarn.lock</tspan>
 </text>
 </svg>
